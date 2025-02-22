@@ -3,7 +3,7 @@ import pandas as pd
 # Load the merged CPI data
 df = pd.read_csv("merged_cpi_data.csv")
 
-# Convert CPI column to numeric
+# Convert CPI column to numeric.
 df["CPI"] = pd.to_numeric(df["CPI"], errors="coerce")
 
 # Sort data by jurisdiction, item, and month
