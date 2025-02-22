@@ -32,6 +32,9 @@ df_final["CPI"] = pd.to_numeric(df_final["CPI"], errors="coerce")
 
 # Save the final data as a CSV file
 df_final.to_csv("merged_cpi_data.csv", index=False)
+print("Merged CPI data saved successfully")
+      
+
 
 
 

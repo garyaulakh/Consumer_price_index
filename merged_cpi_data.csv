@@ -41,7 +41,7 @@ Shelter,24-Dec,AB,224.2
 "Household operations, furnishings and equipment",24-Apr,AB,125.4
 "Household operations, furnishings and equipment",24-May,AB,123.8
 "Household operations, furnishings and equipment",24-Jun,AB,124.1
-"Household operations, furnishings and equipment",24-Jul,AB,125
+"Household operations, furnishings and equipment",24-Jul,AB,125.0
 "Household operations, furnishings and equipment",24-Aug,AB,125.3
 "Household operations, furnishings and equipment",24-Sep,AB,124.7
 "Household operations, furnishings and equipment",24-Oct,AB,125.5
@@ -51,7 +51,7 @@ Clothing and footwear,24-Jan,AB,94.7
 Clothing and footwear,24-Feb,AB,92.2
 Clothing and footwear,24-Mar,AB,95.4
 Clothing and footwear,24-Apr,AB,96.8
-Clothing and footwear,24-May,AB,97
+Clothing and footwear,24-May,AB,97.0
 Clothing and footwear,24-Jun,AB,94.6
 Clothing and footwear,24-Jul,AB,94.7
 Clothing and footwear,24-Aug,AB,95.1
@@ -77,15 +77,15 @@ Gasoline,24-Mar,AB,223.2
 Gasoline,24-Apr,AB,242.8
 Gasoline,24-May,AB,237.7
 Gasoline,24-Jun,AB,234.3
-Gasoline,24-Jul,AB,242
+Gasoline,24-Jul,AB,242.0
 Gasoline,24-Aug,AB,238.5
 Gasoline,24-Sep,AB,218.6
 Gasoline,24-Oct,AB,223.4
 Gasoline,24-Nov,AB,217.8
 Gasoline,24-Dec,AB,214.7
 Health and personal care,24-Jan,AB,155.6
-Health and personal care,24-Feb,AB,157
-Health and personal care,24-Mar,AB,156
+Health and personal care,24-Feb,AB,157.0
+Health and personal care,24-Mar,AB,156.0
 Health and personal care,24-Apr,AB,158.2
 Health and personal care,24-May,AB,158.3
 Health and personal care,24-Jun,AB,158.7
@@ -101,7 +101,7 @@ Health and personal care,24-Dec,AB,157.4
 "Recreation, education and reading",24-Apr,AB,122.6
 "Recreation, education and reading",24-May,AB,126.3
 "Recreation, education and reading",24-Jun,AB,124.9
-"Recreation, education and reading",24-Jul,AB,126
+"Recreation, education and reading",24-Jul,AB,126.0
 "Recreation, education and reading",24-Aug,AB,124.9
 "Recreation, education and reading",24-Sep,AB,124.5
 "Recreation, education and reading",24-Oct,AB,125.5
@@ -117,7 +117,7 @@ Health and personal care,24-Dec,AB,157.4
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,AB,194.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Sep,AB,195.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,AB,195.7
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,AB,197
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,AB,197.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,AB,194.7
 All-items excluding food and energy,24-Jan,AB,156.8
 All-items excluding food and energy,24-Feb,AB,157.1
@@ -129,7 +129,7 @@ All-items excluding food and energy,24-Jul,AB,160.5
 All-items excluding food and energy,24-Aug,AB,160.4
 All-items excluding food and energy,24-Sep,AB,160.1
 All-items excluding food and energy,24-Oct,AB,160.9
-All-items excluding food and energy,24-Nov,AB,161
+All-items excluding food and energy,24-Nov,AB,161.0
 All-items excluding food and energy,24-Dec,AB,160.8
 All-items excluding energy,24-Jan,AB,161.9
 All-items excluding energy,24-Feb,AB,162.2
@@ -139,24 +139,24 @@ All-items excluding energy,24-May,AB,164.2
 All-items excluding energy,24-Jun,AB,164.7
 All-items excluding energy,24-Jul,AB,165.5
 All-items excluding energy,24-Aug,AB,165.3
-All-items excluding energy,24-Sep,AB,165
+All-items excluding energy,24-Sep,AB,165.0
 All-items excluding energy,24-Oct,AB,165.9
-All-items excluding energy,24-Nov,AB,166
+All-items excluding energy,24-Nov,AB,166.0
 All-items excluding energy,24-Dec,AB,165.5
 Energy,24-Jan,AB,218.2
 Energy,24-Feb,AB,232.7
 Energy,24-Mar,AB,233.7
 Energy,24-Apr,AB,246.5
 Energy,24-May,AB,238.5
-Energy,24-Jun,AB,235
+Energy,24-Jun,AB,235.0
 Energy,24-Jul,AB,240.3
 Energy,24-Aug,AB,239.7
 Energy,24-Sep,AB,224.8
 Energy,24-Oct,AB,227.5
 Energy,24-Nov,AB,226.6
 Energy,24-Dec,AB,226.7
-Goods,24-Jan,AB,144
-Goods,24-Feb,AB,145
+Goods,24-Jan,AB,144.0
+Goods,24-Feb,AB,145.0
 Goods,24-Mar,AB,145.3
 Goods,24-Apr,AB,146.8
 Goods,24-May,AB,146.1
@@ -170,7 +170,7 @@ Goods,24-Dec,AB,144.6
 Services,24-Jan,AB,189.3
 Services,24-Feb,AB,190.3
 Services,24-Mar,AB,190.9
-Services,24-Apr,AB,192
+Services,24-Apr,AB,192.0
 Services,24-May,AB,193.8
 Services,24-Jun,AB,194.7
 Services,24-Jul,AB,196.2
@@ -178,9 +178,9 @@ Services,24-Aug,AB,195.8
 Services,24-Sep,AB,195.4
 Services,24-Oct,AB,196.2
 Services,24-Nov,AB,196.8
-Services,24-Dec,AB,197
+Services,24-Dec,AB,197.0
 All-items,24-Jan,BC,152.6
-All-items,24-Feb,BC,153
+All-items,24-Feb,BC,153.0
 All-items,24-Mar,BC,153.8
 All-items,24-Apr,BC,154.7
 All-items,24-May,BC,155.4
@@ -192,29 +192,29 @@ All-items,24-Oct,BC,156.2
 All-items,24-Nov,BC,156.3
 All-items,24-Dec,BC,156.1
 Food,24-Jan,BC,182.1
-Food,24-Feb,BC,182
+Food,24-Feb,BC,182.0
 Food,24-Mar,BC,180.8
 Food,24-Apr,BC,179.8
 Food,24-May,BC,181.8
 Food,24-Jun,BC,182.7
 Food,24-Jul,BC,182.7
-Food,24-Aug,BC,183
+Food,24-Aug,BC,183.0
 Food,24-Sep,BC,183.3
-Food,24-Oct,BC,184
+Food,24-Oct,BC,184.0
 Food,24-Nov,BC,184.9
 Food,24-Dec,BC,182.5
 Shelter,24-Jan,BC,156.8
 Shelter,24-Feb,BC,156.9
-Shelter,24-Mar,BC,158
-Shelter,24-Apr,BC,159
+Shelter,24-Mar,BC,158.0
+Shelter,24-Apr,BC,159.0
 Shelter,24-May,BC,159.3
 Shelter,24-Jun,BC,160.2
 Shelter,24-Jul,BC,160.3
 Shelter,24-Aug,BC,160.8
 Shelter,24-Sep,BC,161.1
 Shelter,24-Oct,BC,162.9
-Shelter,24-Nov,BC,163
-Shelter,24-Dec,BC,163
+Shelter,24-Nov,BC,163.0
+Shelter,24-Dec,BC,163.0
 "Household operations, furnishings and equipment",24-Jan,BC,126.8
 "Household operations, furnishings and equipment",24-Feb,BC,127.5
 "Household operations, furnishings and equipment",24-Mar,BC,126.9
@@ -228,11 +228,11 @@ Shelter,24-Dec,BC,163
 "Household operations, furnishings and equipment",24-Nov,BC,127.1
 "Household operations, furnishings and equipment",24-Dec,BC,125.3
 Clothing and footwear,24-Jan,BC,102.6
-Clothing and footwear,24-Feb,BC,100
+Clothing and footwear,24-Feb,BC,100.0
 Clothing and footwear,24-Mar,BC,102.6
 Clothing and footwear,24-Apr,BC,103.5
 Clothing and footwear,24-May,BC,104.5
-Clothing and footwear,24-Jun,BC,103
+Clothing and footwear,24-Jun,BC,103.0
 Clothing and footwear,24-Jul,BC,102.1
 Clothing and footwear,24-Aug,BC,101.7
 Clothing and footwear,24-Sep,BC,101.6
@@ -247,7 +247,7 @@ Transportation,24-May,BC,168.7
 Transportation,24-Jun,BC,166.5
 Transportation,24-Jul,BC,169.4
 Transportation,24-Aug,BC,167.9
-Transportation,24-Sep,BC,166
+Transportation,24-Sep,BC,166.0
 Transportation,24-Oct,BC,166.1
 Transportation,24-Nov,BC,166.3
 Transportation,24-Dec,BC,167.3
@@ -273,10 +273,10 @@ Health and personal care,24-Jul,BC,143.9
 Health and personal care,24-Aug,BC,144.4
 Health and personal care,24-Sep,BC,144.5
 Health and personal care,24-Oct,BC,144.3
-Health and personal care,24-Nov,BC,144
+Health and personal care,24-Nov,BC,144.0
 Health and personal care,24-Dec,BC,143.4
 "Recreation, education and reading",24-Jan,BC,135.7
-"Recreation, education and reading",24-Feb,BC,138
+"Recreation, education and reading",24-Feb,BC,138.0
 "Recreation, education and reading",24-Mar,BC,138.2
 "Recreation, education and reading",24-Apr,BC,139.5
 "Recreation, education and reading",24-May,BC,143.5
@@ -300,10 +300,10 @@ Health and personal care,24-Dec,BC,143.4
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,BC,185.8
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,BC,181.9
 All-items excluding food and energy,24-Jan,BC,142.8
-All-items excluding food and energy,24-Feb,BC,143
+All-items excluding food and energy,24-Feb,BC,143.0
 All-items excluding food and energy,24-Mar,BC,143.5
 All-items excluding food and energy,24-Apr,BC,144.2
-All-items excluding food and energy,24-May,BC,145
+All-items excluding food and energy,24-May,BC,145.0
 All-items excluding food and energy,24-Jun,BC,145.5
 All-items excluding food and energy,24-Jul,BC,146.5
 All-items excluding food and energy,24-Aug,BC,146.4
@@ -323,7 +323,7 @@ All-items excluding energy,24-Sep,BC,152.2
 All-items excluding energy,24-Oct,BC,152.6
 All-items excluding energy,24-Nov,BC,152.7
 All-items excluding energy,24-Dec,BC,152.6
-Energy,24-Jan,BC,196
+Energy,24-Jan,BC,196.0
 Energy,24-Feb,BC,202.3
 Energy,24-Mar,BC,216.2
 Energy,24-Apr,BC,228.9
@@ -353,7 +353,7 @@ Services,24-Mar,BC,162.5
 Services,24-Apr,BC,163.5
 Services,24-May,BC,164.7
 Services,24-Jun,BC,165.6
-Services,24-Jul,BC,167
+Services,24-Jul,BC,167.0
 Services,24-Aug,BC,166.9
 Services,24-Sep,BC,166.6
 Services,24-Oct,BC,166.9
@@ -375,14 +375,14 @@ Food,24-Jan,Canada,188.1
 Food,24-Feb,Canada,188.1
 Food,24-Mar,Canada,187.8
 Food,24-Apr,Canada,187.4
-Food,24-May,Canada,189
-Food,24-Jun,Canada,190
+Food,24-May,Canada,189.0
+Food,24-Jun,Canada,190.0
 Food,24-Jul,Canada,190.5
 Food,24-Aug,Canada,190.3
 Food,24-Sep,Canada,190.3
 Food,24-Oct,Canada,190.5
 Food,24-Nov,Canada,191.5
-Food,24-Dec,Canada,188
+Food,24-Dec,Canada,188.0
 Shelter,24-Jan,Canada,178.4
 Shelter,24-Feb,Canada,179.2
 Shelter,24-Mar,Canada,179.9
@@ -399,29 +399,29 @@ Shelter,24-Dec,Canada,185.8
 "Household operations, furnishings and equipment",24-Feb,Canada,130.6
 "Household operations, furnishings and equipment",24-Mar,Canada,130.2
 "Household operations, furnishings and equipment",24-Apr,Canada,130.9
-"Household operations, furnishings and equipment",24-May,Canada,131
-"Household operations, furnishings and equipment",24-Jun,Canada,131
+"Household operations, furnishings and equipment",24-May,Canada,131.0
+"Household operations, furnishings and equipment",24-Jun,Canada,131.0
 "Household operations, furnishings and equipment",24-Jul,Canada,131.7
 "Household operations, furnishings and equipment",24-Aug,Canada,131.2
-"Household operations, furnishings and equipment",24-Sep,Canada,131
+"Household operations, furnishings and equipment",24-Sep,Canada,131.0
 "Household operations, furnishings and equipment",24-Oct,Canada,131.2
-"Household operations, furnishings and equipment",24-Nov,Canada,130
+"Household operations, furnishings and equipment",24-Nov,Canada,130.0
 "Household operations, furnishings and equipment",24-Dec,Canada,128.6
 Clothing and footwear,24-Jan,Canada,92.6
 Clothing and footwear,24-Feb,Canada,91.6
 Clothing and footwear,24-Mar,Canada,94.2
-Clothing and footwear,24-Apr,Canada,95
-Clothing and footwear,24-May,Canada,95
+Clothing and footwear,24-Apr,Canada,95.0
+Clothing and footwear,24-May,Canada,95.0
 Clothing and footwear,24-Jun,Canada,93.2
 Clothing and footwear,24-Jul,Canada,92.6
-Clothing and footwear,24-Aug,Canada,92
+Clothing and footwear,24-Aug,Canada,92.0
 Clothing and footwear,24-Sep,Canada,92.8
-Clothing and footwear,24-Oct,Canada,95
+Clothing and footwear,24-Oct,Canada,95.0
 Clothing and footwear,24-Nov,Canada,94.2
 Clothing and footwear,24-Dec,Canada,91.4
 Transportation,24-Jan,Canada,167.4
 Transportation,24-Feb,Canada,168.5
-Transportation,24-Mar,Canada,171
+Transportation,24-Mar,Canada,171.0
 Transportation,24-Apr,Canada,173.8
 Transportation,24-May,Canada,173.9
 Transportation,24-Jun,Canada,173.6
@@ -440,13 +440,13 @@ Gasoline,24-Jun,Canada,235.7
 Gasoline,24-Jul,Canada,241.4
 Gasoline,24-Aug,Canada,235.2
 Gasoline,24-Sep,Canada,218.4
-Gasoline,24-Oct,Canada,220
+Gasoline,24-Oct,Canada,220.0
 Gasoline,24-Nov,Canada,220.1
 Gasoline,24-Dec,Canada,218.7
 Health and personal care,24-Jan,Canada,147.7
 Health and personal care,24-Feb,Canada,148.4
 Health and personal care,24-Mar,Canada,148.3
-Health and personal care,24-Apr,Canada,150
+Health and personal care,24-Apr,Canada,150.0
 Health and personal care,24-May,Canada,151.2
 Health and personal care,24-Jun,Canada,150.8
 Health and personal care,24-Jul,Canada,150.8
@@ -455,28 +455,28 @@ Health and personal care,24-Sep,Canada,151.9
 Health and personal care,24-Oct,Canada,151.9
 Health and personal care,24-Nov,Canada,151.6
 Health and personal care,24-Dec,Canada,151.3
-"Recreation, education and reading",24-Jan,Canada,123
-"Recreation, education and reading",24-Feb,Canada,125
+"Recreation, education and reading",24-Jan,Canada,123.0
+"Recreation, education and reading",24-Feb,Canada,125.0
 "Recreation, education and reading",24-Mar,Canada,127.5
 "Recreation, education and reading",24-Apr,Canada,126.6
 "Recreation, education and reading",24-May,Canada,129.5
 "Recreation, education and reading",24-Jun,Canada,127.6
 "Recreation, education and reading",24-Jul,Canada,129.1
-"Recreation, education and reading",24-Aug,Canada,128
+"Recreation, education and reading",24-Aug,Canada,128.0
 "Recreation, education and reading",24-Sep,Canada,127.5
 "Recreation, education and reading",24-Oct,Canada,127.5
 "Recreation, education and reading",24-Nov,Canada,126.9
-"Recreation, education and reading",24-Dec,Canada,126
+"Recreation, education and reading",24-Dec,Canada,126.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jan,Canada,194.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Feb,Canada,194.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,Canada,195
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,Canada,195.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,Canada,195.9
 "Alcoholic beverages, tobacco products and recreational cannabis",24-May,Canada,196.4
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,Canada,196.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,Canada,196.4
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,Canada,197.9
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Sep,Canada,197.8
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,Canada,198
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,Canada,198.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,Canada,198.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,Canada,193.5
 All-items excluding food and energy,24-Jan,Canada,148.8
@@ -485,7 +485,7 @@ All-items excluding food and energy,24-Mar,Canada,150.1
 All-items excluding food and energy,24-Apr,Canada,150.5
 All-items excluding food and energy,24-May,Canada,151.4
 All-items excluding food and energy,24-Jun,Canada,151.4
-All-items excluding food and energy,24-Jul,Canada,152
+All-items excluding food and energy,24-Jul,Canada,152.0
 All-items excluding food and energy,24-Aug,Canada,151.8
 All-items excluding food and energy,24-Sep,Canada,151.7
 All-items excluding food and energy,24-Oct,Canada,152.4
@@ -514,7 +514,7 @@ Energy,24-Aug,Canada,208.2
 Energy,24-Sep,Canada,198.3
 Energy,24-Oct,Canada,198.9
 Energy,24-Nov,Canada,199.5
-Energy,24-Dec,Canada,199
+Energy,24-Dec,Canada,199.0
 Goods,24-Jan,Canada,143.1
 Goods,24-Feb,Canada,143.5
 Goods,24-Mar,Canada,144.2
@@ -536,13 +536,13 @@ Services,24-Jun,Canada,177.6
 Services,24-Jul,Canada,178.8
 Services,24-Aug,Canada,178.6
 Services,24-Sep,Canada,178.2
-Services,24-Oct,Canada,179
+Services,24-Oct,Canada,179.0
 Services,24-Nov,Canada,179.1
 Services,24-Dec,Canada,179.2
 All-items,24-Jan,MB,157.5
 All-items,24-Feb,MB,158.3
-All-items,24-Mar,MB,159
-All-items,24-Apr,MB,160
+All-items,24-Mar,MB,159.0
+All-items,24-Apr,MB,160.0
 All-items,24-May,MB,161.1
 All-items,24-Jun,MB,160.7
 All-items,24-Jul,MB,162.2
@@ -550,10 +550,10 @@ All-items,24-Aug,MB,161.5
 All-items,24-Sep,MB,160.4
 All-items,24-Oct,MB,161.4
 All-items,24-Nov,MB,161.2
-All-items,24-Dec,MB,160
+All-items,24-Dec,MB,160.0
 Food,24-Jan,MB,184.1
 Food,24-Feb,MB,183.8
-Food,24-Mar,MB,184
+Food,24-Mar,MB,184.0
 Food,24-Apr,MB,182.8
 Food,24-May,MB,186.3
 Food,24-Jun,MB,187.1
@@ -570,7 +570,7 @@ Shelter,24-Apr,MB,192.6
 Shelter,24-May,MB,192.4
 Shelter,24-Jun,MB,193.3
 Shelter,24-Jul,MB,194.7
-Shelter,24-Aug,MB,194
+Shelter,24-Aug,MB,194.0
 Shelter,24-Sep,MB,195.1
 Shelter,24-Oct,MB,196.1
 Shelter,24-Nov,MB,197.4
@@ -580,10 +580,10 @@ Shelter,24-Dec,MB,197.4
 "Household operations, furnishings and equipment",24-Mar,MB,127.7
 "Household operations, furnishings and equipment",24-Apr,MB,129.4
 "Household operations, furnishings and equipment",24-May,MB,129.7
-"Household operations, furnishings and equipment",24-Jun,MB,128
+"Household operations, furnishings and equipment",24-Jun,MB,128.0
 "Household operations, furnishings and equipment",24-Jul,MB,130.1
-"Household operations, furnishings and equipment",24-Aug,MB,129
-"Household operations, furnishings and equipment",24-Sep,MB,128
+"Household operations, furnishings and equipment",24-Aug,MB,129.0
+"Household operations, furnishings and equipment",24-Sep,MB,128.0
 "Household operations, furnishings and equipment",24-Oct,MB,129.3
 "Household operations, furnishings and equipment",24-Nov,MB,127.5
 "Household operations, furnishings and equipment",24-Dec,MB,125.6
@@ -602,22 +602,22 @@ Clothing and footwear,24-Dec,MB,89.8
 Transportation,24-Jan,MB,160.5
 Transportation,24-Feb,MB,162.6
 Transportation,24-Mar,MB,166.2
-Transportation,24-Apr,MB,168
+Transportation,24-Apr,MB,168.0
 Transportation,24-May,MB,168.6
 Transportation,24-Jun,MB,168.2
-Transportation,24-Jul,MB,171
+Transportation,24-Jul,MB,171.0
 Transportation,24-Aug,MB,169.9
 Transportation,24-Sep,MB,163.6
 Transportation,24-Oct,MB,163.1
 Transportation,24-Nov,MB,162.6
 Transportation,24-Dec,MB,166.4
 Gasoline,24-Jan,MB,180.5
-Gasoline,24-Feb,MB,193
+Gasoline,24-Feb,MB,193.0
 Gasoline,24-Mar,MB,208.1
 Gasoline,24-Apr,MB,217.5
 Gasoline,24-May,MB,217.2
 Gasoline,24-Jun,MB,210.7
-Gasoline,24-Jul,MB,222
+Gasoline,24-Jul,MB,222.0
 Gasoline,24-Aug,MB,225.6
 Gasoline,24-Sep,MB,203.1
 Gasoline,24-Oct,MB,200.5
@@ -631,13 +631,13 @@ Health and personal care,24-May,MB,141.6
 Health and personal care,24-Jun,MB,142.5
 Health and personal care,24-Jul,MB,142.3
 Health and personal care,24-Aug,MB,141.9
-Health and personal care,24-Sep,MB,142
-Health and personal care,24-Oct,MB,142
+Health and personal care,24-Sep,MB,142.0
+Health and personal care,24-Oct,MB,142.0
 Health and personal care,24-Nov,MB,142.3
 Health and personal care,24-Dec,MB,141.3
 "Recreation, education and reading",24-Jan,MB,123.8
 "Recreation, education and reading",24-Feb,MB,127.7
-"Recreation, education and reading",24-Mar,MB,128
+"Recreation, education and reading",24-Mar,MB,128.0
 "Recreation, education and reading",24-Apr,MB,127.6
 "Recreation, education and reading",24-May,MB,130.1
 "Recreation, education and reading",24-Jun,MB,127.9
@@ -652,9 +652,9 @@ Health and personal care,24-Dec,MB,141.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,MB,205.9
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,MB,207.6
 "Alcoholic beverages, tobacco products and recreational cannabis",24-May,MB,208.7
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,MB,209
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,MB,210
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,MB,209
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,MB,209.0
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,MB,210.0
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,MB,209.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Sep,MB,210.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,MB,210.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,MB,210.2
@@ -673,12 +673,12 @@ All-items excluding food and energy,24-Nov,MB,153.6
 All-items excluding food and energy,24-Dec,MB,152.6
 All-items excluding energy,24-Jan,MB,156.4
 All-items excluding energy,24-Feb,MB,156.8
-All-items excluding energy,24-Mar,MB,157
+All-items excluding energy,24-Mar,MB,157.0
 All-items excluding energy,24-Apr,MB,157.7
 All-items excluding energy,24-May,MB,158.9
 All-items excluding energy,24-Jun,MB,158.6
 All-items excluding energy,24-Jul,MB,159.9
-All-items excluding energy,24-Aug,MB,159
+All-items excluding energy,24-Aug,MB,159.0
 All-items excluding energy,24-Sep,MB,158.6
 All-items excluding energy,24-Oct,MB,159.8
 All-items excluding energy,24-Nov,MB,159.8
@@ -702,14 +702,14 @@ Goods,24-Apr,MB,142.7
 Goods,24-May,MB,143.7
 Goods,24-Jun,MB,142.9
 Goods,24-Jul,MB,144.1
-Goods,24-Aug,MB,144
+Goods,24-Aug,MB,144.0
 Goods,24-Sep,MB,142.6
 Goods,24-Oct,MB,143.5
 Goods,24-Nov,MB,142.8
-Goods,24-Dec,MB,141
+Goods,24-Dec,MB,141.0
 Services,24-Jan,MB,175.8
-Services,24-Feb,MB,177
-Services,24-Mar,MB,178
+Services,24-Feb,MB,177.0
+Services,24-Mar,MB,178.0
 Services,24-Apr,MB,179.4
 Services,24-May,MB,180.8
 Services,24-Jun,MB,180.7
@@ -722,9 +722,9 @@ Services,24-Dec,MB,181.6
 All-items,24-Jan,NB,158.5
 All-items,24-Feb,NB,158.9
 All-items,24-Mar,NB,159.8
-All-items,24-Apr,NB,162
+All-items,24-Apr,NB,162.0
 All-items,24-May,NB,161.9
-All-items,24-Jun,NB,162
+All-items,24-Jun,NB,162.0
 All-items,24-Jul,NB,162.9
 All-items,24-Aug,NB,161.8
 All-items,24-Sep,NB,160.7
@@ -734,7 +734,7 @@ All-items,24-Dec,NB,160.3
 Food,24-Jan,NB,199.5
 Food,24-Feb,NB,199.3
 Food,24-Mar,NB,199.5
-Food,24-Apr,NB,200
+Food,24-Apr,NB,200.0
 Food,24-May,NB,201.3
 Food,24-Jun,NB,202.7
 Food,24-Jul,NB,203.8
@@ -743,9 +743,9 @@ Food,24-Sep,NB,202.5
 Food,24-Oct,NB,202.4
 Food,24-Nov,NB,203.4
 Food,24-Dec,NB,198.7
-Shelter,24-Jan,NB,168
-Shelter,24-Feb,NB,169
-Shelter,24-Mar,NB,170
+Shelter,24-Jan,NB,168.0
+Shelter,24-Feb,NB,169.0
+Shelter,24-Mar,NB,170.0
 Shelter,24-Apr,NB,173.8
 Shelter,24-May,NB,174.1
 Shelter,24-Jun,NB,174.3
@@ -759,7 +759,7 @@ Shelter,24-Dec,NB,176.9
 "Household operations, furnishings and equipment",24-Feb,NB,128.6
 "Household operations, furnishings and equipment",24-Mar,NB,128.5
 "Household operations, furnishings and equipment",24-Apr,NB,129.5
-"Household operations, furnishings and equipment",24-May,NB,128
+"Household operations, furnishings and equipment",24-May,NB,128.0
 "Household operations, furnishings and equipment",24-Jun,NB,128.9
 "Household operations, furnishings and equipment",24-Jul,NB,130.5
 "Household operations, furnishings and equipment",24-Aug,NB,129.1
@@ -770,7 +770,7 @@ Shelter,24-Dec,NB,176.9
 Clothing and footwear,24-Jan,NB,101.4
 Clothing and footwear,24-Feb,NB,100.4
 Clothing and footwear,24-Mar,NB,103.4
-Clothing and footwear,24-Apr,NB,103
+Clothing and footwear,24-Apr,NB,103.0
 Clothing and footwear,24-May,NB,103.2
 Clothing and footwear,24-Jun,NB,102.6
 Clothing and footwear,24-Jul,NB,100.5
@@ -788,21 +788,21 @@ Transportation,24-Jun,NB,171.6
 Transportation,24-Jul,NB,173.5
 Transportation,24-Aug,NB,171.1
 Transportation,24-Sep,NB,165.7
-Transportation,24-Oct,NB,167
+Transportation,24-Oct,NB,167.0
 Transportation,24-Nov,NB,167.8
 Transportation,24-Dec,NB,170.1
 Gasoline,24-Jan,NB,205.8
 Gasoline,24-Feb,NB,213.6
-Gasoline,24-Mar,NB,220
+Gasoline,24-Mar,NB,220.0
 Gasoline,24-Apr,NB,240.2
-Gasoline,24-May,NB,233
+Gasoline,24-May,NB,233.0
 Gasoline,24-Jun,NB,225.2
 Gasoline,24-Jul,NB,230.9
 Gasoline,24-Aug,NB,223.3
 Gasoline,24-Sep,NB,206.3
 Gasoline,24-Oct,NB,209.2
 Gasoline,24-Nov,NB,211.4
-Gasoline,24-Dec,NB,209
+Gasoline,24-Dec,NB,209.0
 Health and personal care,24-Jan,NB,138.4
 Health and personal care,24-Feb,NB,139.6
 Health and personal care,24-Mar,NB,138.8
@@ -861,11 +861,11 @@ All-items excluding energy,24-Jul,NB,156.3
 All-items excluding energy,24-Aug,NB,155.7
 All-items excluding energy,24-Sep,NB,155.3
 All-items excluding energy,24-Oct,NB,156.1
-All-items excluding energy,24-Nov,NB,156
+All-items excluding energy,24-Nov,NB,156.0
 All-items excluding energy,24-Dec,NB,154.6
 Energy,24-Jan,NB,196.7
-Energy,24-Feb,NB,202
-Energy,24-Mar,NB,204
+Energy,24-Feb,NB,202.0
+Energy,24-Mar,NB,204.0
 Energy,24-Apr,NB,222.7
 Energy,24-May,NB,217.7
 Energy,24-Jun,NB,213.1
@@ -874,16 +874,16 @@ Energy,24-Aug,NB,211.8
 Energy,24-Sep,NB,201.8
 Energy,24-Oct,NB,204.3
 Energy,24-Nov,NB,206.1
-Energy,24-Dec,NB,205
+Energy,24-Dec,NB,205.0
 Goods,24-Jan,NB,154.5
-Goods,24-Feb,NB,155
+Goods,24-Feb,NB,155.0
 Goods,24-Mar,NB,155.5
 Goods,24-Apr,NB,158.4
 Goods,24-May,NB,157.7
 Goods,24-Jun,NB,157.4
 Goods,24-Jul,NB,157.7
 Goods,24-Aug,NB,156.2
-Goods,24-Sep,NB,155
+Goods,24-Sep,NB,155.0
 Goods,24-Oct,NB,155.8
 Goods,24-Nov,NB,155.9
 Goods,24-Dec,NB,154.2
@@ -912,11 +912,11 @@ All-items,24-Oct,NL,161.9
 All-items,24-Nov,NL,162.1
 All-items,24-Dec,NL,160.7
 Food,24-Jan,NL,186.9
-Food,24-Feb,NL,187
+Food,24-Feb,NL,187.0
 Food,24-Mar,NL,187.4
 Food,24-Apr,NL,186.8
-Food,24-May,NL,188
-Food,24-Jun,NL,189
+Food,24-May,NL,188.0
+Food,24-Jun,NL,189.0
 Food,24-Jul,NL,189.5
 Food,24-Aug,NL,190.3
 Food,24-Sep,NL,190.7
@@ -940,16 +940,16 @@ Shelter,24-Dec,NL,201.8
 "Household operations, furnishings and equipment",24-Mar,NL,123.5
 "Household operations, furnishings and equipment",24-Apr,NL,123.9
 "Household operations, furnishings and equipment",24-May,NL,123.2
-"Household operations, furnishings and equipment",24-Jun,NL,123
+"Household operations, furnishings and equipment",24-Jun,NL,123.0
 "Household operations, furnishings and equipment",24-Jul,NL,124.2
-"Household operations, furnishings and equipment",24-Aug,NL,124
+"Household operations, furnishings and equipment",24-Aug,NL,124.0
 "Household operations, furnishings and equipment",24-Sep,NL,123.6
 "Household operations, furnishings and equipment",24-Oct,NL,122.7
 "Household operations, furnishings and equipment",24-Nov,NL,122.2
 "Household operations, furnishings and equipment",24-Dec,NL,121.2
 Clothing and footwear,24-Jan,NL,89.6
 Clothing and footwear,24-Feb,NL,89.5
-Clothing and footwear,24-Mar,NL,91
+Clothing and footwear,24-Mar,NL,91.0
 Clothing and footwear,24-Apr,NL,90.8
 Clothing and footwear,24-May,NL,91.8
 Clothing and footwear,24-Jun,NL,89.8
@@ -960,9 +960,9 @@ Clothing and footwear,24-Oct,NL,87.8
 Clothing and footwear,24-Nov,NL,88.7
 Clothing and footwear,24-Dec,NL,83.2
 Transportation,24-Jan,NL,170.2
-Transportation,24-Feb,NL,172
+Transportation,24-Feb,NL,172.0
 Transportation,24-Mar,NL,174.5
-Transportation,24-Apr,NL,177
+Transportation,24-Apr,NL,177.0
 Transportation,24-May,NL,176.9
 Transportation,24-Jun,NL,175.8
 Transportation,24-Jul,NL,178.4
@@ -976,11 +976,11 @@ Gasoline,24-Feb,NL,217.8
 Gasoline,24-Mar,NL,224.3
 Gasoline,24-Apr,NL,243.5
 Gasoline,24-May,NL,239.2
-Gasoline,24-Jun,NL,229
+Gasoline,24-Jun,NL,229.0
 Gasoline,24-Jul,NL,233.6
-Gasoline,24-Aug,NL,227
+Gasoline,24-Aug,NL,227.0
 Gasoline,24-Sep,NL,210.8
-Gasoline,24-Oct,NL,213
+Gasoline,24-Oct,NL,213.0
 Gasoline,24-Nov,NL,214.3
 Gasoline,24-Dec,NL,212.9
 Health and personal care,24-Jan,NL,142.6
@@ -998,12 +998,12 @@ Health and personal care,24-Dec,NL,145.5
 "Recreation, education and reading",24-Jan,NL,115.9
 "Recreation, education and reading",24-Feb,NL,117.8
 "Recreation, education and reading",24-Mar,NL,121.8
-"Recreation, education and reading",24-Apr,NL,119
+"Recreation, education and reading",24-Apr,NL,119.0
 "Recreation, education and reading",24-May,NL,121.3
 "Recreation, education and reading",24-Jun,NL,121.4
 "Recreation, education and reading",24-Jul,NL,121.9
 "Recreation, education and reading",24-Aug,NL,121.5
-"Recreation, education and reading",24-Sep,NL,119
+"Recreation, education and reading",24-Sep,NL,119.0
 "Recreation, education and reading",24-Oct,NL,119.5
 "Recreation, education and reading",24-Nov,NL,118.7
 "Recreation, education and reading",24-Dec,NL,115.7
@@ -1011,7 +1011,7 @@ Health and personal care,24-Dec,NL,145.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Feb,NL,227.4
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,NL,227.6
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,NL,229.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-May,NL,232
+"Alcoholic beverages, tobacco products and recreational cannabis",24-May,NL,232.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,NL,231.6
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,NL,231.7
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,NL,232.3
@@ -1035,26 +1035,26 @@ All-items excluding energy,24-Jan,NL,152.2
 All-items excluding energy,24-Feb,NL,152.5
 All-items excluding energy,24-Mar,NL,153.7
 All-items excluding energy,24-Apr,NL,153.4
-All-items excluding energy,24-May,NL,154
+All-items excluding energy,24-May,NL,154.0
 All-items excluding energy,24-Jun,NL,154.3
 All-items excluding energy,24-Jul,NL,154.7
 All-items excluding energy,24-Aug,NL,154.6
 All-items excluding energy,24-Sep,NL,154.1
 All-items excluding energy,24-Oct,NL,153.9
-All-items excluding energy,24-Nov,NL,154
+All-items excluding energy,24-Nov,NL,154.0
 All-items excluding energy,24-Dec,NL,152.6
 Energy,24-Jan,NL,218.5
 Energy,24-Feb,NL,225.3
-Energy,24-Mar,NL,229
+Energy,24-Mar,NL,229.0
 Energy,24-Apr,NL,240.7
 Energy,24-May,NL,237.3
 Energy,24-Jun,NL,231.2
 Energy,24-Jul,NL,234.4
 Energy,24-Aug,NL,235.2
-Energy,24-Sep,NL,225
+Energy,24-Sep,NL,225.0
 Energy,24-Oct,NL,227.2
 Energy,24-Nov,NL,228.7
-Energy,24-Dec,NL,228
+Energy,24-Dec,NL,228.0
 Goods,24-Jan,NL,154.7
 Goods,24-Feb,NL,155.6
 Goods,24-Mar,NL,156.3
@@ -1075,22 +1075,22 @@ Services,24-May,NL,170.1
 Services,24-Jun,NL,171.2
 Services,24-Jul,NL,172.3
 Services,24-Aug,NL,172.2
-Services,24-Sep,NL,171
-Services,24-Oct,NL,171
+Services,24-Sep,NL,171.0
+Services,24-Oct,NL,171.0
 Services,24-Nov,NL,171.6
 Services,24-Dec,NL,170.7
-All-items,24-Jan,NS,162
-All-items,24-Feb,NS,162.8
-All-items,24-Mar,NS,163.7
-All-items,24-Apr,NS,164.3
-All-items,24-May,NS,164.7
-All-items,24-Jun,NS,165
-All-items,24-Jul,NS,165.9
-All-items,24-Aug,NS,165
-All-items,24-Sep,NS,164.1
-All-items,24-Oct,NS,164.6
-All-items,24-Nov,NS,165.2
-All-items,24-Dec,NS,163.6
+All-items,Jan-24,NS,162.0
+All-items,Feb-24,NS,162.8
+All-items,Mar-24,NS,163.7
+All-items,Apr-24,NS,164.3
+All-items,May-24,NS,164.7
+All-items,Jun-24,NS,165.0
+All-items,Jul-24,NS,165.9
+All-items,Aug-24,NS,165.0
+All-items,Sep-24,NS,164.1
+All-items,Oct-24,NS,164.6
+All-items,Nov-24,NS,165.2
+All-items,Dec-24,NS,163.6
 All-items,Unnamed: 13,NS,
 All-items,Unnamed: 14,NS,
 All-items,Unnamed: 15,NS,
@@ -1247,18 +1247,18 @@ All-items,Unnamed: 165,NS,
 All-items,Unnamed: 166,NS,
 All-items,Unnamed: 167,NS,
 All-items,Unnamed: 168,NS,
-Food,24-Jan,NS,194.4
-Food,24-Feb,NS,194.2
-Food,24-Mar,NS,193.2
-Food,24-Apr,NS,194.2
-Food,24-May,NS,195.7
-Food,24-Jun,NS,197
-Food,24-Jul,NS,197.4
-Food,24-Aug,NS,196.6
-Food,24-Sep,NS,196.1
-Food,24-Oct,NS,197.4
-Food,24-Nov,NS,197.4
-Food,24-Dec,NS,191.6
+Food,Jan-24,NS,194.4
+Food,Feb-24,NS,194.2
+Food,Mar-24,NS,193.2
+Food,Apr-24,NS,194.2
+Food,May-24,NS,195.7
+Food,Jun-24,NS,197.0
+Food,Jul-24,NS,197.4
+Food,Aug-24,NS,196.6
+Food,Sep-24,NS,196.1
+Food,Oct-24,NS,197.4
+Food,Nov-24,NS,197.4
+Food,Dec-24,NS,191.6
 Food,Unnamed: 13,NS,
 Food,Unnamed: 14,NS,
 Food,Unnamed: 15,NS,
@@ -1415,18 +1415,18 @@ Food,Unnamed: 165,NS,
 Food,Unnamed: 166,NS,
 Food,Unnamed: 167,NS,
 Food,Unnamed: 168,NS,
-Shelter,24-Jan,NS,186.4
-Shelter,24-Feb,NS,187.6
-Shelter,24-Mar,NS,187.8
-Shelter,24-Apr,NS,188
-Shelter,24-May,NS,186.6
-Shelter,24-Jun,NS,188
-Shelter,24-Jul,NS,189.2
-Shelter,24-Aug,NS,189
-Shelter,24-Sep,NS,188.4
-Shelter,24-Oct,NS,189.4
-Shelter,24-Nov,NS,191.5
-Shelter,24-Dec,NS,191.7
+Shelter,Jan-24,NS,186.4
+Shelter,Feb-24,NS,187.6
+Shelter,Mar-24,NS,187.8
+Shelter,Apr-24,NS,188.0
+Shelter,May-24,NS,186.6
+Shelter,Jun-24,NS,188.0
+Shelter,Jul-24,NS,189.2
+Shelter,Aug-24,NS,189.0
+Shelter,Sep-24,NS,188.4
+Shelter,Oct-24,NS,189.4
+Shelter,Nov-24,NS,191.5
+Shelter,Dec-24,NS,191.7
 Shelter,Unnamed: 13,NS,
 Shelter,Unnamed: 14,NS,
 Shelter,Unnamed: 15,NS,
@@ -1583,18 +1583,18 @@ Shelter,Unnamed: 165,NS,
 Shelter,Unnamed: 166,NS,
 Shelter,Unnamed: 167,NS,
 Shelter,Unnamed: 168,NS,
-"Household operations, furnishings and equipment",24-Jan,NS,126.8
-"Household operations, furnishings and equipment",24-Feb,NS,128.5
-"Household operations, furnishings and equipment",24-Mar,NS,127.8
-"Household operations, furnishings and equipment",24-Apr,NS,128
-"Household operations, furnishings and equipment",24-May,NS,128
-"Household operations, furnishings and equipment",24-Jun,NS,128
-"Household operations, furnishings and equipment",24-Jul,NS,128.1
-"Household operations, furnishings and equipment",24-Aug,NS,128.6
-"Household operations, furnishings and equipment",24-Sep,NS,128.2
-"Household operations, furnishings and equipment",24-Oct,NS,128.7
-"Household operations, furnishings and equipment",24-Nov,NS,129.1
-"Household operations, furnishings and equipment",24-Dec,NS,126
+"Household operations, furnishings and equipment",Jan-24,NS,126.8
+"Household operations, furnishings and equipment",Feb-24,NS,128.5
+"Household operations, furnishings and equipment",Mar-24,NS,127.8
+"Household operations, furnishings and equipment",Apr-24,NS,128.0
+"Household operations, furnishings and equipment",May-24,NS,128.0
+"Household operations, furnishings and equipment",Jun-24,NS,128.0
+"Household operations, furnishings and equipment",Jul-24,NS,128.1
+"Household operations, furnishings and equipment",Aug-24,NS,128.6
+"Household operations, furnishings and equipment",Sep-24,NS,128.2
+"Household operations, furnishings and equipment",Oct-24,NS,128.7
+"Household operations, furnishings and equipment",Nov-24,NS,129.1
+"Household operations, furnishings and equipment",Dec-24,NS,126.0
 "Household operations, furnishings and equipment",Unnamed: 13,NS,
 "Household operations, furnishings and equipment",Unnamed: 14,NS,
 "Household operations, furnishings and equipment",Unnamed: 15,NS,
@@ -1751,18 +1751,18 @@ Shelter,Unnamed: 168,NS,
 "Household operations, furnishings and equipment",Unnamed: 166,NS,
 "Household operations, furnishings and equipment",Unnamed: 167,NS,
 "Household operations, furnishings and equipment",Unnamed: 168,NS,
-Clothing and footwear,24-Jan,NS,98
-Clothing and footwear,24-Feb,NS,95.1
-Clothing and footwear,24-Mar,NS,97.4
-Clothing and footwear,24-Apr,NS,97.8
-Clothing and footwear,24-May,NS,96.1
-Clothing and footwear,24-Jun,NS,95.3
-Clothing and footwear,24-Jul,NS,95.8
-Clothing and footwear,24-Aug,NS,94.8
-Clothing and footwear,24-Sep,NS,96.8
-Clothing and footwear,24-Oct,NS,97.1
-Clothing and footwear,24-Nov,NS,95.5
-Clothing and footwear,24-Dec,NS,93.9
+Clothing and footwear,Jan-24,NS,98.0
+Clothing and footwear,Feb-24,NS,95.1
+Clothing and footwear,Mar-24,NS,97.4
+Clothing and footwear,Apr-24,NS,97.8
+Clothing and footwear,May-24,NS,96.1
+Clothing and footwear,Jun-24,NS,95.3
+Clothing and footwear,Jul-24,NS,95.8
+Clothing and footwear,Aug-24,NS,94.8
+Clothing and footwear,Sep-24,NS,96.8
+Clothing and footwear,Oct-24,NS,97.1
+Clothing and footwear,Nov-24,NS,95.5
+Clothing and footwear,Dec-24,NS,93.9
 Clothing and footwear,Unnamed: 13,NS,
 Clothing and footwear,Unnamed: 14,NS,
 Clothing and footwear,Unnamed: 15,NS,
@@ -1919,18 +1919,18 @@ Clothing and footwear,Unnamed: 165,NS,
 Clothing and footwear,Unnamed: 166,NS,
 Clothing and footwear,Unnamed: 167,NS,
 Clothing and footwear,Unnamed: 168,NS,
-Transportation,24-Jan,NS,166.1
-Transportation,24-Feb,NS,167.4
-Transportation,24-Mar,NS,168.9
-Transportation,24-Apr,NS,172.2
-Transportation,24-May,NS,173.2
-Transportation,24-Jun,NS,171.9
-Transportation,24-Jul,NS,174.3
-Transportation,24-Aug,NS,171.1
-Transportation,24-Sep,NS,166.6
-Transportation,24-Oct,NS,166.5
-Transportation,24-Nov,NS,167.9
-Transportation,24-Dec,NS,170.8
+Transportation,Jan-24,NS,166.1
+Transportation,Feb-24,NS,167.4
+Transportation,Mar-24,NS,168.9
+Transportation,Apr-24,NS,172.2
+Transportation,May-24,NS,173.2
+Transportation,Jun-24,NS,171.9
+Transportation,Jul-24,NS,174.3
+Transportation,Aug-24,NS,171.1
+Transportation,Sep-24,NS,166.6
+Transportation,Oct-24,NS,166.5
+Transportation,Nov-24,NS,167.9
+Transportation,Dec-24,NS,170.8
 Transportation,Unnamed: 13,NS,
 Transportation,Unnamed: 14,NS,
 Transportation,Unnamed: 15,NS,
@@ -2087,18 +2087,18 @@ Transportation,Unnamed: 165,NS,
 Transportation,Unnamed: 166,NS,
 Transportation,Unnamed: 167,NS,
 Transportation,Unnamed: 168,NS,
-Gasoline,24-Jan,NS,208.1
-Gasoline,24-Feb,NS,216.3
-Gasoline,24-Mar,NS,222.1
-Gasoline,24-Apr,NS,238.9
-Gasoline,24-May,NS,241.7
-Gasoline,24-Jun,NS,230.5
-Gasoline,24-Jul,NS,234.5
-Gasoline,24-Aug,NS,225.4
-Gasoline,24-Sep,NS,207.9
-Gasoline,24-Oct,NS,208
-Gasoline,24-Nov,NS,210.5
-Gasoline,24-Dec,NS,207.8
+Gasoline,Jan-24,NS,208.1
+Gasoline,Feb-24,NS,216.3
+Gasoline,Mar-24,NS,222.1
+Gasoline,Apr-24,NS,238.9
+Gasoline,May-24,NS,241.7
+Gasoline,Jun-24,NS,230.5
+Gasoline,Jul-24,NS,234.5
+Gasoline,Aug-24,NS,225.4
+Gasoline,Sep-24,NS,207.9
+Gasoline,Oct-24,NS,208.0
+Gasoline,Nov-24,NS,210.5
+Gasoline,Dec-24,NS,207.8
 Gasoline,Unnamed: 13,NS,
 Gasoline,Unnamed: 14,NS,
 Gasoline,Unnamed: 15,NS,
@@ -2255,18 +2255,18 @@ Gasoline,Unnamed: 165,NS,
 Gasoline,Unnamed: 166,NS,
 Gasoline,Unnamed: 167,NS,
 Gasoline,Unnamed: 168,NS,
-Health and personal care,24-Jan,NS,143.7
-Health and personal care,24-Feb,NS,144.1
-Health and personal care,24-Mar,NS,143.8
-Health and personal care,24-Apr,NS,146.1
-Health and personal care,24-May,NS,148
-Health and personal care,24-Jun,NS,147.2
-Health and personal care,24-Jul,NS,146.1
-Health and personal care,24-Aug,NS,146.2
-Health and personal care,24-Sep,NS,146.4
-Health and personal care,24-Oct,NS,147.3
-Health and personal care,24-Nov,NS,147.4
-Health and personal care,24-Dec,NS,146.9
+Health and personal care,Jan-24,NS,143.7
+Health and personal care,Feb-24,NS,144.1
+Health and personal care,Mar-24,NS,143.8
+Health and personal care,Apr-24,NS,146.1
+Health and personal care,May-24,NS,148.0
+Health and personal care,Jun-24,NS,147.2
+Health and personal care,Jul-24,NS,146.1
+Health and personal care,Aug-24,NS,146.2
+Health and personal care,Sep-24,NS,146.4
+Health and personal care,Oct-24,NS,147.3
+Health and personal care,Nov-24,NS,147.4
+Health and personal care,Dec-24,NS,146.9
 Health and personal care,Unnamed: 13,NS,
 Health and personal care,Unnamed: 14,NS,
 Health and personal care,Unnamed: 15,NS,
@@ -2423,18 +2423,18 @@ Health and personal care,Unnamed: 165,NS,
 Health and personal care,Unnamed: 166,NS,
 Health and personal care,Unnamed: 167,NS,
 Health and personal care,Unnamed: 168,NS,
-"Recreation, education and reading",24-Jan,NS,129.7
-"Recreation, education and reading",24-Feb,NS,131.5
-"Recreation, education and reading",24-Mar,NS,136.9
-"Recreation, education and reading",24-Apr,NS,132.5
-"Recreation, education and reading",24-May,NS,134.9
-"Recreation, education and reading",24-Jun,NS,135.6
-"Recreation, education and reading",24-Jul,NS,137.3
-"Recreation, education and reading",24-Aug,NS,135.8
-"Recreation, education and reading",24-Sep,NS,135.3
-"Recreation, education and reading",24-Oct,NS,134.4
-"Recreation, education and reading",24-Nov,NS,134
-"Recreation, education and reading",24-Dec,NS,131.7
+"Recreation, education and reading",Jan-24,NS,129.7
+"Recreation, education and reading",Feb-24,NS,131.5
+"Recreation, education and reading",Mar-24,NS,136.9
+"Recreation, education and reading",Apr-24,NS,132.5
+"Recreation, education and reading",May-24,NS,134.9
+"Recreation, education and reading",Jun-24,NS,135.6
+"Recreation, education and reading",Jul-24,NS,137.3
+"Recreation, education and reading",Aug-24,NS,135.8
+"Recreation, education and reading",Sep-24,NS,135.3
+"Recreation, education and reading",Oct-24,NS,134.4
+"Recreation, education and reading",Nov-24,NS,134.0
+"Recreation, education and reading",Dec-24,NS,131.7
 "Recreation, education and reading",Unnamed: 13,NS,
 "Recreation, education and reading",Unnamed: 14,NS,
 "Recreation, education and reading",Unnamed: 15,NS,
@@ -2591,18 +2591,18 @@ Health and personal care,Unnamed: 168,NS,
 "Recreation, education and reading",Unnamed: 166,NS,
 "Recreation, education and reading",Unnamed: 167,NS,
 "Recreation, education and reading",Unnamed: 168,NS,
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jan,NS,232.3
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Feb,NS,233.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,NS,234.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,NS,239.6
-"Alcoholic beverages, tobacco products and recreational cannabis",24-May,NS,239.7
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,NS,239.7
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,NS,240
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,NS,240.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Sep,NS,240.7
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,NS,242.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,NS,241.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,NS,232.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-24,NS,232.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-24,NS,233.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-24,NS,234.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-24,NS,239.6
+"Alcoholic beverages, tobacco products and recreational cannabis",May-24,NS,239.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-24,NS,239.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-24,NS,240.0
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-24,NS,240.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-24,NS,240.7
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-24,NS,242.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-24,NS,241.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-24,NS,232.9
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 13,NS,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 14,NS,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 15,NS,
@@ -2759,18 +2759,18 @@ Health and personal care,Unnamed: 168,NS,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 166,NS,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 167,NS,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 168,NS,
-All-items excluding food and energy,24-Jan,NS,146.6
-All-items excluding food and energy,24-Feb,NS,147.3
-All-items excluding food and energy,24-Mar,NS,148.3
-All-items excluding food and energy,24-Apr,NS,148.2
-All-items excluding food and energy,24-May,NS,148.5
-All-items excluding food and energy,24-Jun,NS,149.2
-All-items excluding food and energy,24-Jul,NS,150
-All-items excluding food and energy,24-Aug,NS,149.5
-All-items excluding food and energy,24-Sep,NS,149.5
-All-items excluding food and energy,24-Oct,NS,149.8
-All-items excluding food and energy,24-Nov,NS,150.3
-All-items excluding food and energy,24-Dec,NS,149.5
+All-items excluding food and energy,Jan-24,NS,146.6
+All-items excluding food and energy,Feb-24,NS,147.3
+All-items excluding food and energy,Mar-24,NS,148.3
+All-items excluding food and energy,Apr-24,NS,148.2
+All-items excluding food and energy,May-24,NS,148.5
+All-items excluding food and energy,Jun-24,NS,149.2
+All-items excluding food and energy,Jul-24,NS,150.0
+All-items excluding food and energy,Aug-24,NS,149.5
+All-items excluding food and energy,Sep-24,NS,149.5
+All-items excluding food and energy,Oct-24,NS,149.8
+All-items excluding food and energy,Nov-24,NS,150.3
+All-items excluding food and energy,Dec-24,NS,149.5
 All-items excluding food and energy,Unnamed: 13,NS,
 All-items excluding food and energy,Unnamed: 14,NS,
 All-items excluding food and energy,Unnamed: 15,NS,
@@ -2927,18 +2927,18 @@ All-items excluding food and energy,Unnamed: 165,NS,
 All-items excluding food and energy,Unnamed: 166,NS,
 All-items excluding food and energy,Unnamed: 167,NS,
 All-items excluding food and energy,Unnamed: 168,NS,
-All-items excluding energy,24-Jan,NS,155
-All-items excluding energy,24-Feb,NS,155.5
-All-items excluding energy,24-Mar,NS,156.2
-All-items excluding energy,24-Apr,NS,156.3
-All-items excluding energy,24-May,NS,156.8
-All-items excluding energy,24-Jun,NS,157.6
-All-items excluding energy,24-Jul,NS,158.3
-All-items excluding energy,24-Aug,NS,157.8
-All-items excluding energy,24-Sep,NS,157.7
-All-items excluding energy,24-Oct,NS,158.2
-All-items excluding energy,24-Nov,NS,158.6
-All-items excluding energy,24-Dec,NS,157.1
+All-items excluding energy,Jan-24,NS,155.0
+All-items excluding energy,Feb-24,NS,155.5
+All-items excluding energy,Mar-24,NS,156.2
+All-items excluding energy,Apr-24,NS,156.3
+All-items excluding energy,May-24,NS,156.8
+All-items excluding energy,Jun-24,NS,157.6
+All-items excluding energy,Jul-24,NS,158.3
+All-items excluding energy,Aug-24,NS,157.8
+All-items excluding energy,Sep-24,NS,157.7
+All-items excluding energy,Oct-24,NS,158.2
+All-items excluding energy,Nov-24,NS,158.6
+All-items excluding energy,Dec-24,NS,157.1
 All-items excluding energy,Unnamed: 13,NS,
 All-items excluding energy,Unnamed: 14,NS,
 All-items excluding energy,Unnamed: 15,NS,
@@ -3095,18 +3095,18 @@ All-items excluding energy,Unnamed: 165,NS,
 All-items excluding energy,Unnamed: 166,NS,
 All-items excluding energy,Unnamed: 167,NS,
 All-items excluding energy,Unnamed: 168,NS,
-Energy,24-Jan,NS,224.2
-Energy,24-Feb,NS,229.7
-Energy,24-Mar,NS,232.2
-Energy,24-Apr,NS,239.6
-Energy,24-May,NS,239.2
-Energy,24-Jun,NS,232.3
-Energy,24-Jul,NS,235.6
-Energy,24-Aug,NS,229.9
-Energy,24-Sep,NS,218.1
-Energy,24-Oct,NS,217.9
-Energy,24-Nov,NS,220.9
-Energy,24-Dec,NS,219.6
+Energy,Jan-24,NS,224.2
+Energy,Feb-24,NS,229.7
+Energy,Mar-24,NS,232.2
+Energy,Apr-24,NS,239.6
+Energy,May-24,NS,239.2
+Energy,Jun-24,NS,232.3
+Energy,Jul-24,NS,235.6
+Energy,Aug-24,NS,229.9
+Energy,Sep-24,NS,218.1
+Energy,Oct-24,NS,217.9
+Energy,Nov-24,NS,220.9
+Energy,Dec-24,NS,219.6
 Energy,Unnamed: 13,NS,
 Energy,Unnamed: 14,NS,
 Energy,Unnamed: 15,NS,
@@ -3263,18 +3263,18 @@ Energy,Unnamed: 165,NS,
 Energy,Unnamed: 166,NS,
 Energy,Unnamed: 167,NS,
 Energy,Unnamed: 168,NS,
-Goods,24-Jan,NS,158.4
-Goods,24-Feb,NS,159.1
-Goods,24-Mar,NS,159.3
-Goods,24-Apr,NS,160.3
-Goods,24-May,NS,161
-Goods,24-Jun,NS,159.9
-Goods,24-Jul,NS,160.3
-Goods,24-Aug,NS,159.3
-Goods,24-Sep,NS,157.7
-Goods,24-Oct,NS,158.4
-Goods,24-Nov,NS,159
-Goods,24-Dec,NS,156.7
+Goods,Jan-24,NS,158.4
+Goods,Feb-24,NS,159.1
+Goods,Mar-24,NS,159.3
+Goods,Apr-24,NS,160.3
+Goods,May-24,NS,161.0
+Goods,Jun-24,NS,159.9
+Goods,Jul-24,NS,160.3
+Goods,Aug-24,NS,159.3
+Goods,Sep-24,NS,157.7
+Goods,Oct-24,NS,158.4
+Goods,Nov-24,NS,159.0
+Goods,Dec-24,NS,156.7
 Goods,Unnamed: 13,NS,
 Goods,Unnamed: 14,NS,
 Goods,Unnamed: 15,NS,
@@ -3431,18 +3431,18 @@ Goods,Unnamed: 165,NS,
 Goods,Unnamed: 166,NS,
 Goods,Unnamed: 167,NS,
 Goods,Unnamed: 168,NS,
-Services,24-Jan,NS,165.6
-Services,24-Feb,NS,166.6
-Services,24-Mar,NS,168.3
-Services,24-Apr,NS,168.3
-Services,24-May,NS,168.5
-Services,24-Jun,NS,170.3
-Services,24-Jul,NS,171.9
-Services,24-Aug,NS,171.1
-Services,24-Sep,NS,170.9
-Services,24-Oct,NS,171.1
-Services,24-Nov,NS,171.8
-Services,24-Dec,NS,171
+Services,Jan-24,NS,165.6
+Services,Feb-24,NS,166.6
+Services,Mar-24,NS,168.3
+Services,Apr-24,NS,168.3
+Services,May-24,NS,168.5
+Services,Jun-24,NS,170.3
+Services,Jul-24,NS,171.9
+Services,Aug-24,NS,171.1
+Services,Sep-24,NS,170.9
+Services,Oct-24,NS,171.1
+Services,Nov-24,NS,171.8
+Services,Dec-24,NS,171.0
 Services,Unnamed: 13,NS,
 Services,Unnamed: 14,NS,
 Services,Unnamed: 15,NS,
@@ -3665,7 +3665,7 @@ Transportation,24-Mar,ON,170.3
 Transportation,24-Apr,ON,173.3
 Transportation,24-May,ON,173.6
 Transportation,24-Jun,ON,173.9
-Transportation,24-Jul,ON,176
+Transportation,24-Jul,ON,176.0
 Transportation,24-Aug,ON,173.4
 Transportation,24-Sep,ON,169.3
 Transportation,24-Oct,ON,170.5
@@ -3679,20 +3679,20 @@ Gasoline,24-May,ON,241.2
 Gasoline,24-Jun,ON,236.1
 Gasoline,24-Jul,ON,242.8
 Gasoline,24-Aug,ON,234.4
-Gasoline,24-Sep,ON,217
+Gasoline,24-Sep,ON,217.0
 Gasoline,24-Oct,ON,220.8
 Gasoline,24-Nov,ON,221.8
 Gasoline,24-Dec,ON,220.9
 Health and personal care,24-Jan,ON,148.7
 Health and personal care,24-Feb,ON,149.8
-Health and personal care,24-Mar,ON,150
+Health and personal care,24-Mar,ON,150.0
 Health and personal care,24-Apr,ON,151.6
 Health and personal care,24-May,ON,152.8
 Health and personal care,24-Jun,ON,152.5
 Health and personal care,24-Jul,ON,152.3
 Health and personal care,24-Aug,ON,153.3
 Health and personal care,24-Sep,ON,154.7
-Health and personal care,24-Oct,ON,155
+Health and personal care,24-Oct,ON,155.0
 Health and personal care,24-Nov,ON,153.7
 Health and personal care,24-Dec,ON,153.8
 "Recreation, education and reading",24-Jan,ON,122.7
@@ -3702,14 +3702,14 @@ Health and personal care,24-Dec,ON,153.8
 "Recreation, education and reading",24-May,ON,129.8
 "Recreation, education and reading",24-Jun,ON,126.7
 "Recreation, education and reading",24-Jul,ON,128.2
-"Recreation, education and reading",24-Aug,ON,127
+"Recreation, education and reading",24-Aug,ON,127.0
 "Recreation, education and reading",24-Sep,ON,126.8
 "Recreation, education and reading",24-Oct,ON,127.7
 "Recreation, education and reading",24-Nov,ON,127.2
 "Recreation, education and reading",24-Dec,ON,125.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jan,ON,194
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Jan,ON,194.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Feb,ON,193.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,ON,194
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,ON,194.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,ON,194.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-May,ON,195.1
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,ON,195.3
@@ -3721,7 +3721,7 @@ Health and personal care,24-Dec,ON,153.8
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,ON,190.1
 All-items excluding food and energy,24-Jan,ON,151.7
 All-items excluding food and energy,24-Feb,ON,151.8
-All-items excluding food and energy,24-Mar,ON,153
+All-items excluding food and energy,24-Mar,ON,153.0
 All-items excluding food and energy,24-Apr,ON,153.4
 All-items excluding food and energy,24-May,ON,154.5
 All-items excluding food and energy,24-Jun,ON,154.3
@@ -3730,7 +3730,7 @@ All-items excluding food and energy,24-Aug,ON,154.6
 All-items excluding food and energy,24-Sep,ON,154.5
 All-items excluding food and energy,24-Oct,ON,155.3
 All-items excluding food and energy,24-Nov,ON,155.1
-All-items excluding food and energy,24-Dec,ON,155
+All-items excluding food and energy,24-Dec,ON,155.0
 All-items excluding energy,24-Jan,ON,157.5
 All-items excluding energy,24-Feb,ON,157.6
 All-items excluding energy,24-Mar,ON,158.6
@@ -3746,7 +3746,7 @@ All-items excluding energy,24-Dec,ON,160.2
 Energy,24-Jan,ON,195.7
 Energy,24-Feb,ON,199.7
 Energy,24-Mar,ON,203.9
-Energy,24-Apr,ON,214
+Energy,24-Apr,ON,214.0
 Energy,24-May,ON,212.3
 Energy,24-Jun,ON,209.3
 Energy,24-Jul,ON,213.1
@@ -3757,7 +3757,7 @@ Energy,24-Nov,ON,200.1
 Energy,24-Dec,ON,199.7
 Goods,24-Jan,ON,141.4
 Goods,24-Feb,ON,141.3
-Goods,24-Mar,ON,142
+Goods,24-Mar,ON,142.0
 Goods,24-Apr,ON,143.4
 Goods,24-May,ON,143.4
 Goods,24-Jun,ON,143.2
@@ -3766,7 +3766,7 @@ Goods,24-Aug,ON,142.8
 Goods,24-Sep,ON,141.9
 Goods,24-Oct,ON,142.3
 Goods,24-Nov,ON,142.2
-Goods,24-Dec,ON,141
+Goods,24-Dec,ON,141.0
 Services,24-Jan,ON,176.1
 Services,24-Feb,ON,176.9
 Services,24-Mar,ON,178.5
@@ -3779,18 +3779,18 @@ Services,24-Sep,ON,181.1
 Services,24-Oct,ON,182.3
 Services,24-Nov,ON,182.3
 Services,24-Dec,ON,181.9
-All-items,24-Jan,PEI,162.6
-All-items,24-Feb,PEI,163.8
-All-items,24-Mar,PEI,164.8
-All-items,24-Apr,PEI,165.9
-All-items,24-May,PEI,166.4
-All-items,24-Jun,PEI,166.4
-All-items,24-Jul,PEI,167.1
-All-items,24-Aug,PEI,166.8
-All-items,24-Sep,PEI,165.3
-All-items,24-Oct,PEI,165.5
-All-items,24-Nov,PEI,165.9
-All-items,24-Dec,PEI,163.6
+All-items,Jan-24,PEI,162.6
+All-items,Feb-24,PEI,163.8
+All-items,Mar-24,PEI,164.8
+All-items,Apr-24,PEI,165.9
+All-items,May-24,PEI,166.4
+All-items,Jun-24,PEI,166.4
+All-items,Jul-24,PEI,167.1
+All-items,Aug-24,PEI,166.8
+All-items,Sep-24,PEI,165.3
+All-items,Oct-24,PEI,165.5
+All-items,Nov-24,PEI,165.9
+All-items,Dec-24,PEI,163.6
 All-items,Unnamed: 13,PEI,
 All-items,Unnamed: 14,PEI,
 All-items,Unnamed: 15,PEI,
@@ -3947,18 +3947,18 @@ All-items,Unnamed: 165,PEI,
 All-items,Unnamed: 166,PEI,
 All-items,Unnamed: 167,PEI,
 All-items,Unnamed: 168,PEI,
-Food,24-Jan,PEI,198.6
-Food,24-Feb,PEI,200.1
-Food,24-Mar,PEI,199.9
-Food,24-Apr,PEI,200.6
-Food,24-May,PEI,201.6
-Food,24-Jun,PEI,203.4
-Food,24-Jul,PEI,204.3
-Food,24-Aug,PEI,202.6
-Food,24-Sep,PEI,202.7
-Food,24-Oct,PEI,203.3
-Food,24-Nov,PEI,203.7
-Food,24-Dec,PEI,195.2
+Food,Jan-24,PEI,198.6
+Food,Feb-24,PEI,200.1
+Food,Mar-24,PEI,199.9
+Food,Apr-24,PEI,200.6
+Food,May-24,PEI,201.6
+Food,Jun-24,PEI,203.4
+Food,Jul-24,PEI,204.3
+Food,Aug-24,PEI,202.6
+Food,Sep-24,PEI,202.7
+Food,Oct-24,PEI,203.3
+Food,Nov-24,PEI,203.7
+Food,Dec-24,PEI,195.2
 Food,Unnamed: 13,PEI,
 Food,Unnamed: 14,PEI,
 Food,Unnamed: 15,PEI,
@@ -4115,18 +4115,18 @@ Food,Unnamed: 165,PEI,
 Food,Unnamed: 166,PEI,
 Food,Unnamed: 167,PEI,
 Food,Unnamed: 168,PEI,
-Shelter,24-Jan,PEI,176.5
-Shelter,24-Feb,PEI,176.9
-Shelter,24-Mar,PEI,178.2
-Shelter,24-Apr,PEI,178.7
-Shelter,24-May,PEI,177.7
-Shelter,24-Jun,PEI,176.9
-Shelter,24-Jul,PEI,176.4
-Shelter,24-Aug,PEI,177.1
-Shelter,24-Sep,PEI,177.2
-Shelter,24-Oct,PEI,178.1
-Shelter,24-Nov,PEI,178.2
-Shelter,24-Dec,PEI,179.1
+Shelter,Jan-24,PEI,176.5
+Shelter,Feb-24,PEI,176.9
+Shelter,Mar-24,PEI,178.2
+Shelter,Apr-24,PEI,178.7
+Shelter,May-24,PEI,177.7
+Shelter,Jun-24,PEI,176.9
+Shelter,Jul-24,PEI,176.4
+Shelter,Aug-24,PEI,177.1
+Shelter,Sep-24,PEI,177.2
+Shelter,Oct-24,PEI,178.1
+Shelter,Nov-24,PEI,178.2
+Shelter,Dec-24,PEI,179.1
 Shelter,Unnamed: 13,PEI,
 Shelter,Unnamed: 14,PEI,
 Shelter,Unnamed: 15,PEI,
@@ -4283,18 +4283,18 @@ Shelter,Unnamed: 165,PEI,
 Shelter,Unnamed: 166,PEI,
 Shelter,Unnamed: 167,PEI,
 Shelter,Unnamed: 168,PEI,
-"Household operations, furnishings and equipment",24-Jan,PEI,137.2
-"Household operations, furnishings and equipment",24-Feb,PEI,138.6
-"Household operations, furnishings and equipment",24-Mar,PEI,137.9
-"Household operations, furnishings and equipment",24-Apr,PEI,139.1
-"Household operations, furnishings and equipment",24-May,PEI,137.9
-"Household operations, furnishings and equipment",24-Jun,PEI,138.7
-"Household operations, furnishings and equipment",24-Jul,PEI,139.1
-"Household operations, furnishings and equipment",24-Aug,PEI,141.8
-"Household operations, furnishings and equipment",24-Sep,PEI,139.3
-"Household operations, furnishings and equipment",24-Oct,PEI,139.3
-"Household operations, furnishings and equipment",24-Nov,PEI,139.4
-"Household operations, furnishings and equipment",24-Dec,PEI,136.5
+"Household operations, furnishings and equipment",Jan-24,PEI,137.2
+"Household operations, furnishings and equipment",Feb-24,PEI,138.6
+"Household operations, furnishings and equipment",Mar-24,PEI,137.9
+"Household operations, furnishings and equipment",Apr-24,PEI,139.1
+"Household operations, furnishings and equipment",May-24,PEI,137.9
+"Household operations, furnishings and equipment",Jun-24,PEI,138.7
+"Household operations, furnishings and equipment",Jul-24,PEI,139.1
+"Household operations, furnishings and equipment",Aug-24,PEI,141.8
+"Household operations, furnishings and equipment",Sep-24,PEI,139.3
+"Household operations, furnishings and equipment",Oct-24,PEI,139.3
+"Household operations, furnishings and equipment",Nov-24,PEI,139.4
+"Household operations, furnishings and equipment",Dec-24,PEI,136.5
 "Household operations, furnishings and equipment",Unnamed: 13,PEI,
 "Household operations, furnishings and equipment",Unnamed: 14,PEI,
 "Household operations, furnishings and equipment",Unnamed: 15,PEI,
@@ -4451,18 +4451,18 @@ Shelter,Unnamed: 168,PEI,
 "Household operations, furnishings and equipment",Unnamed: 166,PEI,
 "Household operations, furnishings and equipment",Unnamed: 167,PEI,
 "Household operations, furnishings and equipment",Unnamed: 168,PEI,
-Clothing and footwear,24-Jan,PEI,96
-Clothing and footwear,24-Feb,PEI,98.2
-Clothing and footwear,24-Mar,PEI,100
-Clothing and footwear,24-Apr,PEI,102.1
-Clothing and footwear,24-May,PEI,103
-Clothing and footwear,24-Jun,PEI,100
-Clothing and footwear,24-Jul,PEI,99.6
-Clothing and footwear,24-Aug,PEI,98
-Clothing and footwear,24-Sep,PEI,100.2
-Clothing and footwear,24-Oct,PEI,101.4
-Clothing and footwear,24-Nov,PEI,100.2
-Clothing and footwear,24-Dec,PEI,96
+Clothing and footwear,Jan-24,PEI,96.0
+Clothing and footwear,Feb-24,PEI,98.2
+Clothing and footwear,Mar-24,PEI,100.0
+Clothing and footwear,Apr-24,PEI,102.1
+Clothing and footwear,May-24,PEI,103.0
+Clothing and footwear,Jun-24,PEI,100.0
+Clothing and footwear,Jul-24,PEI,99.6
+Clothing and footwear,Aug-24,PEI,98.0
+Clothing and footwear,Sep-24,PEI,100.2
+Clothing and footwear,Oct-24,PEI,101.4
+Clothing and footwear,Nov-24,PEI,100.2
+Clothing and footwear,Dec-24,PEI,96.0
 Clothing and footwear,Unnamed: 13,PEI,
 Clothing and footwear,Unnamed: 14,PEI,
 Clothing and footwear,Unnamed: 15,PEI,
@@ -4619,18 +4619,18 @@ Clothing and footwear,Unnamed: 165,PEI,
 Clothing and footwear,Unnamed: 166,PEI,
 Clothing and footwear,Unnamed: 167,PEI,
 Clothing and footwear,Unnamed: 168,PEI,
-Transportation,24-Jan,PEI,170.8
-Transportation,24-Feb,PEI,172.4
-Transportation,24-Mar,PEI,174.7
-Transportation,24-Apr,PEI,177.4
-Transportation,24-May,PEI,178.5
-Transportation,24-Jun,PEI,177.1
-Transportation,24-Jul,PEI,179.6
-Transportation,24-Aug,PEI,177
-Transportation,24-Sep,PEI,171.4
-Transportation,24-Oct,PEI,172.5
-Transportation,24-Nov,PEI,173.3
-Transportation,24-Dec,PEI,175.8
+Transportation,Jan-24,PEI,170.8
+Transportation,Feb-24,PEI,172.4
+Transportation,Mar-24,PEI,174.7
+Transportation,Apr-24,PEI,177.4
+Transportation,May-24,PEI,178.5
+Transportation,Jun-24,PEI,177.1
+Transportation,Jul-24,PEI,179.6
+Transportation,Aug-24,PEI,177.0
+Transportation,Sep-24,PEI,171.4
+Transportation,Oct-24,PEI,172.5
+Transportation,Nov-24,PEI,173.3
+Transportation,Dec-24,PEI,175.8
 Transportation,Unnamed: 13,PEI,
 Transportation,Unnamed: 14,PEI,
 Transportation,Unnamed: 15,PEI,
@@ -4787,18 +4787,18 @@ Transportation,Unnamed: 165,PEI,
 Transportation,Unnamed: 166,PEI,
 Transportation,Unnamed: 167,PEI,
 Transportation,Unnamed: 168,PEI,
-Gasoline,24-Jan,PEI,233.1
-Gasoline,24-Feb,PEI,241.6
-Gasoline,24-Mar,PEI,245.4
-Gasoline,24-Apr,PEI,260.1
-Gasoline,24-May,PEI,265
-Gasoline,24-Jun,PEI,255.8
-Gasoline,24-Jul,PEI,263.2
-Gasoline,24-Aug,PEI,255.9
-Gasoline,24-Sep,PEI,237.1
-Gasoline,24-Oct,PEI,241.3
-Gasoline,24-Nov,PEI,243.5
-Gasoline,24-Dec,PEI,238.6
+Gasoline,Jan-24,PEI,233.1
+Gasoline,Feb-24,PEI,241.6
+Gasoline,Mar-24,PEI,245.4
+Gasoline,Apr-24,PEI,260.1
+Gasoline,May-24,PEI,265.0
+Gasoline,Jun-24,PEI,255.8
+Gasoline,Jul-24,PEI,263.2
+Gasoline,Aug-24,PEI,255.9
+Gasoline,Sep-24,PEI,237.1
+Gasoline,Oct-24,PEI,241.3
+Gasoline,Nov-24,PEI,243.5
+Gasoline,Dec-24,PEI,238.6
 Gasoline,Unnamed: 13,PEI,
 Gasoline,Unnamed: 14,PEI,
 Gasoline,Unnamed: 15,PEI,
@@ -4955,18 +4955,18 @@ Gasoline,Unnamed: 165,PEI,
 Gasoline,Unnamed: 166,PEI,
 Gasoline,Unnamed: 167,PEI,
 Gasoline,Unnamed: 168,PEI,
-Health and personal care,24-Jan,PEI,152
-Health and personal care,24-Feb,PEI,151.3
-Health and personal care,24-Mar,PEI,152.4
-Health and personal care,24-Apr,PEI,154.9
-Health and personal care,24-May,PEI,155.5
-Health and personal care,24-Jun,PEI,156.3
-Health and personal care,24-Jul,PEI,156.2
-Health and personal care,24-Aug,PEI,156.3
-Health and personal care,24-Sep,PEI,156.4
-Health and personal care,24-Oct,PEI,155.9
-Health and personal care,24-Nov,PEI,155.8
-Health and personal care,24-Dec,PEI,154.8
+Health and personal care,Jan-24,PEI,152.0
+Health and personal care,Feb-24,PEI,151.3
+Health and personal care,Mar-24,PEI,152.4
+Health and personal care,Apr-24,PEI,154.9
+Health and personal care,May-24,PEI,155.5
+Health and personal care,Jun-24,PEI,156.3
+Health and personal care,Jul-24,PEI,156.2
+Health and personal care,Aug-24,PEI,156.3
+Health and personal care,Sep-24,PEI,156.4
+Health and personal care,Oct-24,PEI,155.9
+Health and personal care,Nov-24,PEI,155.8
+Health and personal care,Dec-24,PEI,154.8
 Health and personal care,Unnamed: 13,PEI,
 Health and personal care,Unnamed: 14,PEI,
 Health and personal care,Unnamed: 15,PEI,
@@ -5123,18 +5123,18 @@ Health and personal care,Unnamed: 165,PEI,
 Health and personal care,Unnamed: 166,PEI,
 Health and personal care,Unnamed: 167,PEI,
 Health and personal care,Unnamed: 168,PEI,
-"Recreation, education and reading",24-Jan,PEI,123.4
-"Recreation, education and reading",24-Feb,PEI,125.2
-"Recreation, education and reading",24-Mar,PEI,127.4
-"Recreation, education and reading",24-Apr,PEI,125.7
-"Recreation, education and reading",24-May,PEI,129.1
-"Recreation, education and reading",24-Jun,PEI,129.5
-"Recreation, education and reading",24-Jul,PEI,131.4
-"Recreation, education and reading",24-Aug,PEI,130.5
-"Recreation, education and reading",24-Sep,PEI,129
-"Recreation, education and reading",24-Oct,PEI,126.2
-"Recreation, education and reading",24-Nov,PEI,127.6
-"Recreation, education and reading",24-Dec,PEI,123.6
+"Recreation, education and reading",Jan-24,PEI,123.4
+"Recreation, education and reading",Feb-24,PEI,125.2
+"Recreation, education and reading",Mar-24,PEI,127.4
+"Recreation, education and reading",Apr-24,PEI,125.7
+"Recreation, education and reading",May-24,PEI,129.1
+"Recreation, education and reading",Jun-24,PEI,129.5
+"Recreation, education and reading",Jul-24,PEI,131.4
+"Recreation, education and reading",Aug-24,PEI,130.5
+"Recreation, education and reading",Sep-24,PEI,129.0
+"Recreation, education and reading",Oct-24,PEI,126.2
+"Recreation, education and reading",Nov-24,PEI,127.6
+"Recreation, education and reading",Dec-24,PEI,123.6
 "Recreation, education and reading",Unnamed: 13,PEI,
 "Recreation, education and reading",Unnamed: 14,PEI,
 "Recreation, education and reading",Unnamed: 15,PEI,
@@ -5291,18 +5291,18 @@ Health and personal care,Unnamed: 168,PEI,
 "Recreation, education and reading",Unnamed: 166,PEI,
 "Recreation, education and reading",Unnamed: 167,PEI,
 "Recreation, education and reading",Unnamed: 168,PEI,
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jan,PEI,228
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Feb,PEI,228.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,PEI,227.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,PEI,230.8
-"Alcoholic beverages, tobacco products and recreational cannabis",24-May,PEI,232.4
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,PEI,232.3
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,PEI,232
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,PEI,233.2
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Sep,PEI,232.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,PEI,232.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,PEI,233.1
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,PEI,227
+"Alcoholic beverages, tobacco products and recreational cannabis",Jan-24,PEI,228.0
+"Alcoholic beverages, tobacco products and recreational cannabis",Feb-24,PEI,228.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Mar-24,PEI,227.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Apr-24,PEI,230.8
+"Alcoholic beverages, tobacco products and recreational cannabis",May-24,PEI,232.4
+"Alcoholic beverages, tobacco products and recreational cannabis",Jun-24,PEI,232.3
+"Alcoholic beverages, tobacco products and recreational cannabis",Jul-24,PEI,232.0
+"Alcoholic beverages, tobacco products and recreational cannabis",Aug-24,PEI,233.2
+"Alcoholic beverages, tobacco products and recreational cannabis",Sep-24,PEI,232.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Oct-24,PEI,232.9
+"Alcoholic beverages, tobacco products and recreational cannabis",Nov-24,PEI,233.1
+"Alcoholic beverages, tobacco products and recreational cannabis",Dec-24,PEI,227.0
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 13,PEI,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 14,PEI,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 15,PEI,
@@ -5459,18 +5459,18 @@ Health and personal care,Unnamed: 168,PEI,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 166,PEI,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 167,PEI,
 "Alcoholic beverages, tobacco products and recreational cannabis",Unnamed: 168,PEI,
-All-items excluding food and energy,24-Jan,PEI,144.3
-All-items excluding food and energy,24-Feb,PEI,145.1
-All-items excluding food and energy,24-Mar,PEI,146.2
-All-items excluding food and energy,24-Apr,PEI,146.8
-All-items excluding food and energy,24-May,PEI,147.4
-All-items excluding food and energy,24-Jun,PEI,147.5
-All-items excluding food and energy,24-Jul,PEI,147.7
-All-items excluding food and energy,24-Aug,PEI,148.2
-All-items excluding food and energy,24-Sep,PEI,147.5
-All-items excluding food and energy,24-Oct,PEI,147.3
-All-items excluding food and energy,24-Nov,PEI,147.4
-All-items excluding food and energy,24-Dec,PEI,146.4
+All-items excluding food and energy,Jan-24,PEI,144.3
+All-items excluding food and energy,Feb-24,PEI,145.1
+All-items excluding food and energy,Mar-24,PEI,146.2
+All-items excluding food and energy,Apr-24,PEI,146.8
+All-items excluding food and energy,May-24,PEI,147.4
+All-items excluding food and energy,Jun-24,PEI,147.5
+All-items excluding food and energy,Jul-24,PEI,147.7
+All-items excluding food and energy,Aug-24,PEI,148.2
+All-items excluding food and energy,Sep-24,PEI,147.5
+All-items excluding food and energy,Oct-24,PEI,147.3
+All-items excluding food and energy,Nov-24,PEI,147.4
+All-items excluding food and energy,Dec-24,PEI,146.4
 All-items excluding food and energy,Unnamed: 13,PEI,
 All-items excluding food and energy,Unnamed: 14,PEI,
 All-items excluding food and energy,Unnamed: 15,PEI,
@@ -5627,18 +5627,18 @@ All-items excluding food and energy,Unnamed: 165,PEI,
 All-items excluding food and energy,Unnamed: 166,PEI,
 All-items excluding food and energy,Unnamed: 167,PEI,
 All-items excluding food and energy,Unnamed: 168,PEI,
-All-items excluding energy,24-Jan,PEI,153.9
-All-items excluding energy,24-Feb,PEI,154.8
-All-items excluding energy,24-Mar,PEI,155.7
-All-items excluding energy,24-Apr,PEI,156.4
-All-items excluding energy,24-May,PEI,157
-All-items excluding energy,24-Jun,PEI,157.3
-All-items excluding energy,24-Jul,PEI,157.7
-All-items excluding energy,24-Aug,PEI,157.8
-All-items excluding energy,24-Sep,PEI,157.3
-All-items excluding energy,24-Oct,PEI,157.2
-All-items excluding energy,24-Nov,PEI,157.3
-All-items excluding energy,24-Dec,PEI,155.1
+All-items excluding energy,Jan-24,PEI,153.9
+All-items excluding energy,Feb-24,PEI,154.8
+All-items excluding energy,Mar-24,PEI,155.7
+All-items excluding energy,Apr-24,PEI,156.4
+All-items excluding energy,May-24,PEI,157.0
+All-items excluding energy,Jun-24,PEI,157.3
+All-items excluding energy,Jul-24,PEI,157.7
+All-items excluding energy,Aug-24,PEI,157.8
+All-items excluding energy,Sep-24,PEI,157.3
+All-items excluding energy,Oct-24,PEI,157.2
+All-items excluding energy,Nov-24,PEI,157.3
+All-items excluding energy,Dec-24,PEI,155.1
 All-items excluding energy,Unnamed: 13,PEI,
 All-items excluding energy,Unnamed: 14,PEI,
 All-items excluding energy,Unnamed: 15,PEI,
@@ -5795,18 +5795,18 @@ All-items excluding energy,Unnamed: 165,PEI,
 All-items excluding energy,Unnamed: 166,PEI,
 All-items excluding energy,Unnamed: 167,PEI,
 All-items excluding energy,Unnamed: 168,PEI,
-Energy,24-Jan,PEI,241.6
-Energy,24-Feb,PEI,247.3
-Energy,24-Mar,PEI,249.7
-Energy,24-Apr,PEI,257
-Energy,24-May,PEI,256.5
-Energy,24-Jun,PEI,249.7
-Energy,24-Jul,PEI,256.2
-Energy,24-Aug,PEI,249.4
-Energy,24-Sep,PEI,234.3
-Energy,24-Oct,PEI,238.1
-Energy,24-Nov,PEI,242.2
-Energy,24-Dec,PEI,238.7
+Energy,Jan-24,PEI,241.6
+Energy,Feb-24,PEI,247.3
+Energy,Mar-24,PEI,249.7
+Energy,Apr-24,PEI,257.0
+Energy,May-24,PEI,256.5
+Energy,Jun-24,PEI,249.7
+Energy,Jul-24,PEI,256.2
+Energy,Aug-24,PEI,249.4
+Energy,Sep-24,PEI,234.3
+Energy,Oct-24,PEI,238.1
+Energy,Nov-24,PEI,242.2
+Energy,Dec-24,PEI,238.7
 Energy,Unnamed: 13,PEI,
 Energy,Unnamed: 14,PEI,
 Energy,Unnamed: 15,PEI,
@@ -5963,18 +5963,18 @@ Energy,Unnamed: 165,PEI,
 Energy,Unnamed: 166,PEI,
 Energy,Unnamed: 167,PEI,
 Energy,Unnamed: 168,PEI,
-Goods,24-Jan,PEI,166.2
-Goods,24-Feb,PEI,167.7
-Goods,24-Mar,PEI,167.8
-Goods,24-Apr,PEI,169.5
-Goods,24-May,PEI,169.6
-Goods,24-Jun,PEI,169
-Goods,24-Jul,PEI,169.8
-Goods,24-Aug,PEI,168.2
-Goods,24-Sep,PEI,167.1
-Goods,24-Oct,PEI,167.5
-Goods,24-Nov,PEI,168.1
-Goods,24-Dec,PEI,164.9
+Goods,Jan-24,PEI,166.2
+Goods,Feb-24,PEI,167.7
+Goods,Mar-24,PEI,167.8
+Goods,Apr-24,PEI,169.5
+Goods,May-24,PEI,169.6
+Goods,Jun-24,PEI,169.0
+Goods,Jul-24,PEI,169.8
+Goods,Aug-24,PEI,168.2
+Goods,Sep-24,PEI,167.1
+Goods,Oct-24,PEI,167.5
+Goods,Nov-24,PEI,168.1
+Goods,Dec-24,PEI,164.9
 Goods,Unnamed: 13,PEI,
 Goods,Unnamed: 14,PEI,
 Goods,Unnamed: 15,PEI,
@@ -6131,18 +6131,18 @@ Goods,Unnamed: 165,PEI,
 Goods,Unnamed: 166,PEI,
 Goods,Unnamed: 167,PEI,
 Goods,Unnamed: 168,PEI,
-Services,24-Jan,PEI,157.4
-Services,24-Feb,PEI,158.3
-Services,24-Mar,PEI,160.2
-Services,24-Apr,PEI,160.7
-Services,24-May,PEI,161.7
-Services,24-Jun,PEI,162.1
-Services,24-Jul,PEI,162.8
-Services,24-Aug,PEI,163.8
-Services,24-Sep,PEI,162
-Services,24-Oct,PEI,161.9
-Services,24-Nov,PEI,162.1
-Services,24-Dec,PEI,160.7
+Services,Jan-24,PEI,157.4
+Services,Feb-24,PEI,158.3
+Services,Mar-24,PEI,160.2
+Services,Apr-24,PEI,160.7
+Services,May-24,PEI,161.7
+Services,Jun-24,PEI,162.1
+Services,Jul-24,PEI,162.8
+Services,Aug-24,PEI,163.8
+Services,Sep-24,PEI,162.0
+Services,Oct-24,PEI,161.9
+Services,Nov-24,PEI,162.1
+Services,Dec-24,PEI,160.7
 Services,Unnamed: 13,PEI,
 Services,Unnamed: 14,PEI,
 Services,Unnamed: 15,PEI,
@@ -6302,7 +6302,7 @@ Services,Unnamed: 168,PEI,
 All-items,24-Jan,QC,154.8
 All-items,24-Feb,QC,155.5
 All-items,24-Mar,QC,156.7
-All-items,24-Apr,QC,157
+All-items,24-Apr,QC,157.0
 All-items,24-May,QC,158.2
 All-items,24-Jun,QC,157.5
 All-items,24-Jul,QC,157.9
@@ -6312,7 +6312,7 @@ All-items,24-Oct,QC,157.9
 All-items,24-Nov,QC,157.8
 All-items,24-Dec,QC,157.5
 Food,24-Jan,QC,188.9
-Food,24-Feb,QC,189
+Food,24-Feb,QC,189.0
 Food,24-Mar,QC,188.6
 Food,24-Apr,QC,188.3
 Food,24-May,QC,190.1
@@ -6324,14 +6324,14 @@ Food,24-Oct,QC,188.9
 Food,24-Nov,QC,190.6
 Food,24-Dec,QC,189.6
 Shelter,24-Jan,QC,166.4
-Shelter,24-Feb,QC,167
-Shelter,24-Mar,QC,168
+Shelter,24-Feb,QC,167.0
+Shelter,24-Mar,QC,168.0
 Shelter,24-Apr,QC,168.9
 Shelter,24-May,QC,169.3
-Shelter,24-Jun,QC,170
+Shelter,24-Jun,QC,170.0
 Shelter,24-Jul,QC,170.7
 Shelter,24-Aug,QC,172.1
-Shelter,24-Sep,QC,172
+Shelter,24-Sep,QC,172.0
 Shelter,24-Oct,QC,173.1
 Shelter,24-Nov,QC,173.7
 Shelter,24-Dec,QC,174.5
@@ -6341,11 +6341,11 @@ Shelter,24-Dec,QC,174.5
 "Household operations, furnishings and equipment",24-Apr,QC,132.4
 "Household operations, furnishings and equipment",24-May,QC,133.5
 "Household operations, furnishings and equipment",24-Jun,QC,133.7
-"Household operations, furnishings and equipment",24-Jul,QC,133
+"Household operations, furnishings and equipment",24-Jul,QC,133.0
 "Household operations, furnishings and equipment",24-Aug,QC,132.6
 "Household operations, furnishings and equipment",24-Sep,QC,133.1
 "Household operations, furnishings and equipment",24-Oct,QC,133.7
-"Household operations, furnishings and equipment",24-Nov,QC,132
+"Household operations, furnishings and equipment",24-Nov,QC,132.0
 "Household operations, furnishings and equipment",24-Dec,QC,130.8
 Clothing and footwear,24-Jan,QC,85.8
 Clothing and footwear,24-Feb,QC,87.5
@@ -6360,22 +6360,22 @@ Clothing and footwear,24-Oct,QC,93.2
 Clothing and footwear,24-Nov,QC,90.4
 Clothing and footwear,24-Dec,QC,86.6
 Transportation,24-Jan,QC,169.6
-Transportation,24-Feb,QC,170
-Transportation,24-Mar,QC,171
+Transportation,24-Feb,QC,170.0
+Transportation,24-Mar,QC,171.0
 Transportation,24-Apr,QC,173.5
 Transportation,24-May,QC,174.1
-Transportation,24-Jun,QC,173
+Transportation,24-Jun,QC,173.0
 Transportation,24-Jul,QC,174.4
-Transportation,24-Aug,QC,172
+Transportation,24-Aug,QC,172.0
 Transportation,24-Sep,QC,168.2
-Transportation,24-Oct,QC,168
-Transportation,24-Nov,QC,169
+Transportation,24-Oct,QC,168.0
+Transportation,24-Nov,QC,169.0
 Transportation,24-Dec,QC,171.3
 Gasoline,24-Jan,QC,218.3
 Gasoline,24-Feb,QC,223.6
 Gasoline,24-Mar,QC,225.9
 Gasoline,24-Apr,QC,243.2
-Gasoline,24-May,QC,243
+Gasoline,24-May,QC,243.0
 Gasoline,24-Jun,QC,233.3
 Gasoline,24-Jul,QC,238.9
 Gasoline,24-Aug,QC,231.1
@@ -6387,9 +6387,9 @@ Health and personal care,24-Jan,QC,148.7
 Health and personal care,24-Feb,QC,148.9
 Health and personal care,24-Mar,QC,149.3
 Health and personal care,24-Apr,QC,151.3
-Health and personal care,24-May,QC,152
-Health and personal care,24-Jun,QC,151
-Health and personal care,24-Jul,QC,152
+Health and personal care,24-May,QC,152.0
+Health and personal care,24-Jun,QC,151.0
+Health and personal care,24-Jul,QC,152.0
 Health and personal care,24-Aug,QC,151.7
 Health and personal care,24-Sep,QC,152.3
 Health and personal care,24-Oct,QC,152.4
@@ -6398,8 +6398,8 @@ Health and personal care,24-Dec,QC,152.5
 "Recreation, education and reading",24-Jan,QC,114.5
 "Recreation, education and reading",24-Feb,QC,116.1
 "Recreation, education and reading",24-Mar,QC,118.5
-"Recreation, education and reading",24-Apr,QC,117
-"Recreation, education and reading",24-May,QC,120
+"Recreation, education and reading",24-Apr,QC,117.0
+"Recreation, education and reading",24-May,QC,120.0
 "Recreation, education and reading",24-Jun,QC,118.3
 "Recreation, education and reading",24-Jul,QC,119.4
 "Recreation, education and reading",24-Aug,QC,118.6
@@ -6414,7 +6414,7 @@ Health and personal care,24-Dec,QC,152.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-May,QC,192.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,QC,192.5
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jul,QC,192.5
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,QC,195
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Aug,QC,195.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Sep,QC,194.6
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Oct,QC,194.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,QC,194.2
@@ -6430,7 +6430,7 @@ All-items excluding food and energy,24-Aug,QC,146.6
 All-items excluding food and energy,24-Sep,QC,146.9
 All-items excluding food and energy,24-Oct,QC,147.8
 All-items excluding food and energy,24-Nov,QC,147.2
-All-items excluding food and energy,24-Dec,QC,147
+All-items excluding food and energy,24-Dec,QC,147.0
 All-items excluding energy,24-Jan,QC,152.1
 All-items excluding energy,24-Feb,QC,152.7
 All-items excluding energy,24-Mar,QC,153.9
@@ -6439,11 +6439,11 @@ All-items excluding energy,24-May,QC,154.9
 All-items excluding energy,24-Jun,QC,154.5
 All-items excluding energy,24-Jul,QC,154.8
 All-items excluding energy,24-Aug,QC,154.8
-All-items excluding energy,24-Sep,QC,155
+All-items excluding energy,24-Sep,QC,155.0
 All-items excluding energy,24-Oct,QC,155.6
 All-items excluding energy,24-Nov,QC,155.4
-All-items excluding energy,24-Dec,QC,155
-Energy,24-Jan,QC,181
+All-items excluding energy,24-Dec,QC,155.0
+Energy,24-Jan,QC,181.0
 Energy,24-Feb,QC,184.2
 Energy,24-Mar,QC,184.9
 Energy,24-Apr,QC,194.9
@@ -6457,7 +6457,7 @@ Energy,24-Nov,QC,180.4
 Energy,24-Dec,QC,180.3
 Goods,24-Jan,QC,142.3
 Goods,24-Feb,QC,143.1
-Goods,24-Mar,QC,144
+Goods,24-Mar,QC,144.0
 Goods,24-Apr,QC,144.6
 Goods,24-May,QC,145.2
 Goods,24-Jun,QC,143.7
@@ -6465,7 +6465,7 @@ Goods,24-Jul,QC,143.5
 Goods,24-Aug,QC,143.2
 Goods,24-Sep,QC,142.6
 Goods,24-Oct,QC,143.1
-Goods,24-Nov,QC,143
+Goods,24-Nov,QC,143.0
 Goods,24-Dec,QC,141.8
 Services,24-Jan,QC,168.6
 Services,24-Feb,QC,169.3
@@ -6474,15 +6474,15 @@ Services,24-Apr,QC,170.7
 Services,24-May,QC,172.5
 Services,24-Jun,QC,172.9
 Services,24-Jul,QC,173.9
-Services,24-Aug,QC,174
+Services,24-Aug,QC,174.0
 Services,24-Sep,QC,173.9
 Services,24-Oct,QC,174.4
 Services,24-Nov,QC,174.4
-Services,24-Dec,QC,175
+Services,24-Dec,QC,175.0
 All-items,24-Jan,SK,159.7
 All-items,24-Feb,SK,160.3
 All-items,24-Mar,SK,161.2
-All-items,24-Apr,SK,162
+All-items,24-Apr,SK,162.0
 All-items,24-May,SK,162.8
 All-items,24-Jun,SK,162.8
 All-items,24-Jul,SK,163.6
@@ -6505,12 +6505,12 @@ Food,24-Nov,SK,193.4
 Food,24-Dec,SK,191.2
 Shelter,24-Jan,SK,197.1
 Shelter,24-Feb,SK,197.7
-Shelter,24-Mar,SK,198
+Shelter,24-Mar,SK,198.0
 Shelter,24-Apr,SK,199.6
 Shelter,24-May,SK,199.6
 Shelter,24-Jun,SK,200.8
-Shelter,24-Jul,SK,201
-Shelter,24-Aug,SK,201
+Shelter,24-Jul,SK,201.0
+Shelter,24-Aug,SK,201.0
 Shelter,24-Sep,SK,201.5
 Shelter,24-Oct,SK,204.1
 Shelter,24-Nov,SK,204.4
@@ -6535,9 +6535,9 @@ Clothing and footwear,24-May,SK,98.8
 Clothing and footwear,24-Jun,SK,96.6
 Clothing and footwear,24-Jul,SK,96.1
 Clothing and footwear,24-Aug,SK,96.9
-Clothing and footwear,24-Sep,SK,98
+Clothing and footwear,24-Sep,SK,98.0
 Clothing and footwear,24-Oct,SK,98.5
-Clothing and footwear,24-Nov,SK,100
+Clothing and footwear,24-Nov,SK,100.0
 Clothing and footwear,24-Dec,SK,98.3
 Transportation,24-Jan,SK,159.6
 Transportation,24-Feb,SK,161.5
@@ -6545,18 +6545,18 @@ Transportation,24-Mar,SK,165.5
 Transportation,24-Apr,SK,166.5
 Transportation,24-May,SK,166.7
 Transportation,24-Jun,SK,166.7
-Transportation,24-Jul,SK,169
+Transportation,24-Jul,SK,169.0
 Transportation,24-Aug,SK,168.9
 Transportation,24-Sep,SK,163.3
 Transportation,24-Oct,SK,162.5
 Transportation,24-Nov,SK,162.1
 Transportation,24-Dec,SK,165.2
 Gasoline,24-Jan,SK,183.2
-Gasoline,24-Feb,SK,194
+Gasoline,24-Feb,SK,194.0
 Gasoline,24-Mar,SK,210.5
-Gasoline,24-Apr,SK,219
+Gasoline,24-Apr,SK,219.0
 Gasoline,24-May,SK,215.4
-Gasoline,24-Jun,SK,213
+Gasoline,24-Jun,SK,213.0
 Gasoline,24-Jul,SK,222.1
 Gasoline,24-Aug,SK,228.2
 Gasoline,24-Sep,SK,208.6
@@ -6589,7 +6589,7 @@ Health and personal care,24-Dec,SK,148.9
 "Recreation, education and reading",24-Dec,SK,128.1
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jan,SK,211.6
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Feb,SK,210.9
-"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,SK,212
+"Alcoholic beverages, tobacco products and recreational cannabis",24-Mar,SK,212.0
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Apr,SK,212.4
 "Alcoholic beverages, tobacco products and recreational cannabis",24-May,SK,212.3
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Jun,SK,212.6
@@ -6600,9 +6600,9 @@ Health and personal care,24-Dec,SK,148.9
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Nov,SK,212.1
 "Alcoholic beverages, tobacco products and recreational cannabis",24-Dec,SK,210.6
 All-items excluding food and energy,24-Jan,SK,151.7
-All-items excluding food and energy,24-Feb,SK,152
+All-items excluding food and energy,24-Feb,SK,152.0
 All-items excluding food and energy,24-Mar,SK,152.4
-All-items excluding food and energy,24-Apr,SK,153
+All-items excluding food and energy,24-Apr,SK,153.0
 All-items excluding food and energy,24-May,SK,153.7
 All-items excluding food and energy,24-Jun,SK,153.8
 All-items excluding food and energy,24-Jul,SK,154.1
@@ -6615,16 +6615,16 @@ All-items excluding energy,24-Jan,SK,158.1
 All-items excluding energy,24-Feb,SK,158.3
 All-items excluding energy,24-Mar,SK,158.5
 All-items excluding energy,24-Apr,SK,159.1
-All-items excluding energy,24-May,SK,160
+All-items excluding energy,24-May,SK,160.0
 All-items excluding energy,24-Jun,SK,160.2
 All-items excluding energy,24-Jul,SK,160.6
 All-items excluding energy,24-Aug,SK,160.1
 All-items excluding energy,24-Sep,SK,159.8
 All-items excluding energy,24-Oct,SK,160.8
-All-items excluding energy,24-Nov,SK,161
+All-items excluding energy,24-Nov,SK,161.0
 All-items excluding energy,24-Dec,SK,160.6
-Energy,24-Jan,SK,173
-Energy,24-Feb,SK,179
+Energy,24-Jan,SK,173.0
+Energy,24-Feb,SK,179.0
 Energy,24-Mar,SK,188.2
 Energy,24-Apr,SK,192.8
 Energy,24-May,SK,190.7
@@ -6635,27 +6635,27 @@ Energy,24-Sep,SK,186.8
 Energy,24-Oct,SK,185.1
 Energy,24-Nov,SK,183.4
 Energy,24-Dec,SK,183.5
-Goods,24-Jan,SK,143
+Goods,24-Jan,SK,143.0
 Goods,24-Feb,SK,143.6
 Goods,24-Mar,SK,144.8
 Goods,24-Apr,SK,145.4
 Goods,24-May,SK,145.6
 Goods,24-Jun,SK,145.1
-Goods,24-Jul,SK,146
+Goods,24-Jul,SK,146.0
 Goods,24-Aug,SK,146.2
 Goods,24-Sep,SK,144.6
 Goods,24-Oct,SK,144.9
-Goods,24-Nov,SK,145
+Goods,24-Nov,SK,145.0
 Goods,24-Dec,SK,144.2
 Services,24-Jan,SK,180.4
 Services,24-Feb,SK,181.1
 Services,24-Mar,SK,181.5
 Services,24-Apr,SK,182.6
-Services,24-May,SK,184
+Services,24-May,SK,184.0
 Services,24-Jun,SK,184.9
 Services,24-Jul,SK,185.6
 Services,24-Aug,SK,184.7
 Services,24-Sep,SK,184.2
 Services,24-Oct,SK,185.8
 Services,24-Nov,SK,185.9
-Services,24-Dec,SK,186
+Services,24-Dec,SK,186.0
